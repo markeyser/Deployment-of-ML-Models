@@ -33,9 +33,13 @@ Then you will learn how to transform that code into code that can be used in pro
 
 And then you will learn how to create an API and make calls to the API.
 
-Then we'll introduce you to testing to corroborate that research and production models produced the same outcome given the same data you learn about continuous integration.
+Then we'll introduce you to testing to corroborate that research and production models produced the same outcome given the same data. You learn about continuous integration. 
+
+And finally we will cover various deployment solutions available to you such as platform as a service or infrastructure as a service.
+
+  You will also learn about how to use Docker to ensure model reproducibility and robustness.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzA2MDY5MywtODE1MjI1NTg3LC04Mz
-M5MzY2NDQsMTk0NTA4NjczMV19
+eyJoaXN0b3J5IjpbLTc0MDIyOTM5MSwtNjQ3MDYwNjkzLC04MT
+UyMjU1ODcsLTgzMzkzNjY0NCwxOTQ1MDg2NzMxXX0=
 -->
