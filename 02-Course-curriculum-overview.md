@@ -36,9 +36,8 @@ Then we will cover the system architecture required to set up a research and dep
 Finally you will learn about the importance of building reproducible machine learning pipelines right from the start of any machine learning project.
 
 ## Section 4: Building a reproducible ML pipeline 
- in Section 4.
 
-You will learn how to write production code to deploy a machine learning model for data scientists.
+ in Section 4 you will learn how to write production code to deploy a machine learning model for data scientists.
 
 This mean how to transform your Jupiter notebooks into production ready code go that is testable tractable
 
@@ -52,5 +51,5 @@ creating a custom pipeline for your business and also how to write code utilizin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzcxNjk5M119
+eyJoaXN0b3J5IjpbLTU3NzEzMjE1OV19
 -->
