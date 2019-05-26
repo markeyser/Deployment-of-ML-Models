@@ -22,9 +22,10 @@ It also contains some guidance on how to approach this course to maximize the kn
 	- Feature selection
 	- Machine Learning model building
 	- Model assessment
-- Both introduction and practical ex
+- Both introduction and practical examples
+- Starting point for deployment your machine learning models
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjI3NTM0XX0=
+eyJoaXN0b3J5IjpbMTg5NTg2NDM0OV19
 -->
