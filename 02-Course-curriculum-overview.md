@@ -148,6 +148,8 @@ We will also show you how to install Docker and how to create an API Docker file
 
 You will also learn how to build and run a docker container and how to release a Heroku application using Docker.
 
+## Section 12: Deploying to an IaaS (AWS)
+
 Section Twelve is a very comprehensive section where you will learn how to deploy your mother's use
 
 in infrastructure as a service.
@@ -192,7 +194,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNjE5MiwtNDkzODU2NTc3LC03MTU2Mj
-U0NTIsMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1
-MzQ2ODEwMDYsLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbLTc5Mzc0Nzc2MywtNDkzODU2NTc3LC03MT
+U2MjU0NTIsMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1NzIwMDQw
+OSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
 -->
