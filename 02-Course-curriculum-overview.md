@@ -38,7 +38,13 @@ Finally you will learn about the importance of building reproducible machine lea
 ## Section 4: Building a reproducible ML pipeline 
 
 - How to transform your jupyter notebook into production ready code
-	- Different ways utiised in the 
+	- Different ways utilized in the industry
+	- Procedural programming
+	- OOP with a custom pipeline
+	- OOP with third party pipeline
+	- Pros and cons of each method
+	- Our recommendation
+	- Bonus: should we integrate feature selection into the production pipeline?
 
  in Section 4 you will learn how to write production code to deploy a machine learning model for data scientists.
 
@@ -52,5 +58,5 @@ creating a custom pipeline for your business and also how to write code utilizin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MjY5NzQ4LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTE0MzU0ODA0MzYsLTU3NzEzMjE1OV19
 -->
