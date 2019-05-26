@@ -58,13 +58,39 @@ This course is also suitable for software developers that want to expand their s
 
 And finally as we use mostly open source tools, this course is also suitable for open source lovers.
 
-So what will you take home from this course.
+## So what will you take home from this course?
 
-In this course you will get more than eight hours of video content and lifetime access to the lectures
+In this course you will get more than eight hours of video content and lifetime access to the lectures you will take.
 
-you will take.
+Ready to use code and deploy your machine learning models using this code the code will be suitable
+
+to create and expand your models in production with tests and error handling.
+
+Also you'll be provided with code to build the API eyes and make calls to them with life data.
+
+You will learn how to containerized your applications using Docker and we will guide you through deploying
+
+your machine learning systems onto both platform as a service and infrastructure as a service.
+
+Cloud computing solutions.
+
+Finally we also include links and references to what other companies are doing worldwide to smooth and
+
+streamline their machine learning pipelines.
+
+So would you like to know more about the course check the next video for the complete course curriculum
+
+and in the unlikely event that you don't find the course useful.
+
+There is a 30 day money back guarantee.
+
+So what are you waiting for.
+
+And well today learn how to put your machine learning models live and start getting true value from
+
+your machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjkxMTI0NSwtNzQwMjI5MzkxLC02ND
-cwNjA2OTMsLTgxNTIyNTU4NywtODMzOTM2NjQ0LDE5NDUwODY3
-MzFdfQ==
+eyJoaXN0b3J5IjpbMzU3NDQ0NTgsLTc0MDIyOTM5MSwtNjQ3MD
+YwNjkzLC04MTUyMjU1ODcsLTgzMzkzNjY0NCwxOTQ1MDg2NzMx
+XX0=
 -->
