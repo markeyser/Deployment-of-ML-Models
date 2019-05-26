@@ -162,13 +162,15 @@ Section twelve is a very comprehensive section where you will learn how to deplo
 In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an ECS cluster and how to deploy to an ECS  cluster using continuous integration.
 
 ## Section 13: Deploying with Big Data - Deep Learning
-in Section 13.
 
-We will cover how to deploy your mother that was trained on and needs to score big heavy data.
+- Classify images with CNN
+- Challenges of deploying models using big data
+- Updating applications to big data
+- AWS S3 for large datasets
 
-We will introduce a new challenge and new data set to classify images using a convolution on neural
+In Section 13 we will cover how to deploy your mother that was trained on and needs to score big heavy data.
 
-network and then you will learn how to update your application to accommodate mothers that consume Big
+We will introduce a new challenge and new data set to classify images using a convolution on neural network and then you will learn how to update your application to accommodate mothers that consume Big
 
 Data.
 
@@ -194,7 +196,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDY0MDYxLDIwNTE1ODYyMDAsLTQ5Mz
-g1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAx
-Niw5NTcyMDA0MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTE5OTkxMDg1MiwyMDUxNTg2MjAwLC00OT
+M4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUyLDExMDkyMTAw
+MTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
