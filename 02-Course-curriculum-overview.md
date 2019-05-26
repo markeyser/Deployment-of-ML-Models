@@ -46,9 +46,9 @@ Finally you will learn about the importance of building reproducible machine lea
 	- Our recommendation
 	- Bonus: should we integrate feature selection into the production pipeline?
 
- in Section 4 you will learn how to write production code to deploy a machine learning model for data scientists.
+ in Section 4 you will learn how to write production code to deploy a machine learning model. 
 
-This mean how to transform your Jupiter notebooks into production ready code go that is testable tractable and reproducible.
+For data scientists this mean how to transform your Jupyter notebooks into production ready code go that is testable tractable and reproducible.
 
 You will learn the different ways available unused in the industry.
 
@@ -58,5 +58,5 @@ creating a custom pipeline for your business and also how to write code utilizin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU0ODA0MzYsLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbLTkwMjY3ODg0MCwtNTc3MTMyMTU5XX0=
 -->
