@@ -65,7 +65,7 @@ After this section, you will have transformed your Jupyter notebooks into produc
 - Virtual environments
 - How to use the course resources
 
-Section 5 is designed to get you up to speed with the key tools that we will use throughout the course. There are a few videos on installing configuring and how to use it.
+Section 5 is designed to get you up to speed with the key tools that we will use throughout the course. There are a few videos on installing configuring and how to use Git.
 
 We will recap on system and Python path.
 
@@ -187,6 +187,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
-MyMTU5XX0=
+eyJoaXN0b3J5IjpbLTExMDY4MzQ4MjAsOTU3MjAwNDA5LDUzND
+Y4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
