@@ -29,11 +29,13 @@ So why should you take this course in this course? We are going to take you thro
 
 We will start with building a machine learning model utilizing Jupyter and notebooks which is what most Data Scientists are used to.
 
-Then you will learn how to transform that code into code that can be used in production. So first we will show you the best practices around writing production code and then you will learn
+Then you will learn how to transform that code into code that can be used in production. So first we will show you the best practices around writing production code.
 
-how to create an API and make calls to the API.
+And then you will learn how to create an API and make calls to the API.
+
+Then we'll introduce you to testing to corroborate that research and production models produced the same outcome given the same data you learn about continuous integration.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzE4MjAzLC04MTUyMjU1ODcsLTgzMz
-kzNjY0NCwxOTQ1MDg2NzMxXX0=
+eyJoaXN0b3J5IjpbLTY0NzA2MDY5MywtODE1MjI1NTg3LC04Mz
+M5MzY2NDQsMTk0NTA4NjczMV19
 -->
