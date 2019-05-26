@@ -103,6 +103,11 @@ Again all best practices while deploying machine learning models.
 
 ## Section 8: Serving the Model via REST API
 
+- Introduction to CI/CD
+- CircleCI
+- Publishing the model Gemfury
+- Testing the CI pipeline
+
 in Section 8 you will learn how to set up a continuous integration and continuous deployment pipeline.
 
 We will show you how to do so using psycho S.I..
@@ -189,6 +194,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDgwODcxMCwxMTA5MjEwMDE2LDk1Nz
-IwMDQwOSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbOTI0NDU3MDMyLDExMDkyMTAwMTYsOTU3Mj
+AwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
