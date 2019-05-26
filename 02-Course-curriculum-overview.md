@@ -79,6 +79,11 @@ Then we will wrap up with resources and guidance for engineering and Python best
 
 ## Section 6: Machine Learning Pipeline Application
 
+- Train the model and make predictions
+- Ensuring data format - data validation
+- Versioning and Logging
+- Building a Python package with the model
+
  in section 6. 
 
 We will continue building on from Section 4 where we wrote the code for deployment.
@@ -189,6 +194,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTQzOTU0OCw5NTcyMDA0MDksNTM0Nj
-gxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbMjAwMzY0NjIsOTU3MjAwNDA5LDUzNDY4MT
+AwNiwtNTc3MTMyMTU5XX0=
 -->
