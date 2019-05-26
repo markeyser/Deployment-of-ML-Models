@@ -157,9 +157,9 @@ You will also learn how to build and run a docker container and how to release a
 - Elastic container Service
 - deploying to ECS using CI
 
-Section Twelve is a very comprehensive section where you will learn how to deploy your models using  infrastructure as a service.
+Section twelve is a very comprehensive section where you will learn how to deploy your models using  infrastructure as a service.
 
-In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an easy s cluster and how to deploy to an ECS  cluster using continuous integration 
+In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an ECS cluster and how to deploy to an ECS  cluster using continuous integration.
 
 ## Section 13: Deploying with Big Data - Deep Learning
 in Section 13.
@@ -194,7 +194,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDYyMTA4MywyMDUxNTg2MjAwLC00OT
-M4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUyLDExMDkyMTAw
-MTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbMTk1MDY0MDYxLDIwNTE1ODYyMDAsLTQ5Mz
+g1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAx
+Niw5NTcyMDA0MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
 -->
