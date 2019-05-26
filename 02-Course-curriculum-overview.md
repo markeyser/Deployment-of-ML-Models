@@ -112,11 +112,10 @@ in Section 8 you will learn how to set up a continuous integration and continuou
 
 We will show you how to do so using CircleCI. We will show you how to set it up and how to configure it.
 
-You will also learn how to publish your models using Jim Fury a tool that is used in the industry and
+You will also learn how to publish your models using Jim Fury a tool that is used in the industry and you will also learn how to test your continuous integration continuous deployment pipeline 
 
-you will also learn how to test your continuous integration continuous deployment pipeline in Section
-
-9.
+## Selection 
+in Section 9.
 
 You will learn about the importance of testing and how to set up differential tests for your machine
 
@@ -192,6 +191,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1Nz
-IwMDQwOSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbLTE4ODk1NTk1ODIsMTM0MzYyOTU1MiwxMT
+A5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3NzEzMjE1
+OV19
 -->
