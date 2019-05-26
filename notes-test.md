@@ -60,9 +60,11 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 ## So what will you take home from this course?
 
-In this course you will get more than eight hours of video content and lifetime access to the lectures you will take.
+- In this course you will get more than eight hours of video content and lifetime access to the lectures. 
 
-Ready to use code and deploy your machine learning models using this code the code will be suitable
+- You will take ready to use code and deploy your machine learning models using this code
+
+- the code will be suitable
 
 to create and expand your models in production with tests and error handling.
 
@@ -90,7 +92,7 @@ And well today learn how to put your machine learning models live and start gett
 
 your machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NDQ0NTgsLTc0MDIyOTM5MSwtNjQ3MD
-YwNjkzLC04MTUyMjU1ODcsLTgzMzkzNjY0NCwxOTQ1MDg2NzMx
-XX0=
+eyJoaXN0b3J5IjpbMTQzMzg3OTU5NSwtNzQwMjI5MzkxLC02ND
+cwNjA2OTMsLTgxNTIyNTU4NywtODMzOTM2NjQ0LDE5NDUwODY3
+MzFdfQ==
 -->
