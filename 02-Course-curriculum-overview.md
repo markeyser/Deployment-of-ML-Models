@@ -119,13 +119,13 @@ You will also learn how to publish your models using Jim Fury a tool that is use
 - Setting up differential tests
 - Differential testing in CI
 
-in Section 9 You will learn about the importance of testing and how to set up differential tests for your machine
+in Section 9 You will learn about the importance of testing and how to set up differential tests for your machine learning pipeline to ensure reproducibility.
 
-learning pipeline to ensure reproducibility.
+We will also show you how to integrate these differentials tests with the continuous integration pipeline.
 
-We will also show you how to integrate these differentials tests with the continuous integration pipeline
+## Selection: Deploying to a PaaS (Heroku)
 
-in Section 10.
+in Section 10
 
 You will learn how to deploy a model using platform as a service.
 
@@ -193,7 +193,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTA0Mjk3MywxMzQzNjI5NTUyLDExMD
+eyJoaXN0b3J5IjpbMTU2MjQ1MDc1NCwxMzQzNjI5NTUyLDExMD
 kyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5
 XX0=
 -->
