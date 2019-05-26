@@ -15,9 +15,20 @@ Why is more than deployment so important.?
 
 For a business to be able to leverage the power of a machine learning model the model needs to be fully deployed into production. If we cannot get practical insight from the model that is if we cannot score like data or real data with it then the impact of the model is severely limited.
 
+Model deployment is one of the most difficult processes in the machine learning pipeline and also the one that will allow us to extract real value from our model. 
+
+Model deployment 
+
+one that will allow us to extract real value from our mother mother deployment requires coordination
+
+between data scientists I.T. teams and their ops software developers and business professionals to make
+
+sure the model works reliably in their organization's production environment this represents a major
+
+challenge because there is often a discrepancy between the programming language in which the machine
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDg5NDY3MywtODMzOTM2NjQ0LDE5ND
-UwODY3MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA4NzI5ODAsLTgzMzkzNjY0NCwxOT
+Q1MDg2NzMxXX0=
 -->
