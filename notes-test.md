@@ -51,8 +51,22 @@ Deployment of machine learning mothers requires a concerted effort among:
 This course offers something new and useful for all of these professionals the cause is ideally suited for intermediate and advanced data scientists.
 
 If you have already built a few Machine Learning mothers and are familiar with the different steps required to read the modern like feature engineering feature selection and would like guidance deploying mothers to production then this is the course for you.
+
+The course is also suitable for data engineers wanting to integrate mother production and AP ice into
+
+their existing data pipelines this course is also suitable for software developers that want to expand
+
+their skills to step into a development and finally as we use mostly open source tools.
+
+This course is also suitable for open source lovers.
+
+So what will you take home from this course.
+
+In this course you will get more than eight hours of video content and lifetime access to the lectures
+
+you will take.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjU3Mzc1MywtNzQwMjI5MzkxLC02ND
+eyJoaXN0b3J5IjpbLTkwNDk3MTg3MiwtNzQwMjI5MzkxLC02ND
 cwNjA2OTMsLTgxNTIyNTU4NywtODMzOTM2NjQ0LDE5NDUwODY3
 MzFdfQ==
 -->
