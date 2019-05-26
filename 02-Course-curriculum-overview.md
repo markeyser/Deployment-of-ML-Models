@@ -151,7 +151,11 @@ You will also learn how to build and run a docker container and how to release a
 ## Section 12: Deploying to an IaaS (AWS)
 
 - Intro to AWS
-- Creating 
+- Creating an AWS account
+- Installing and Configuring the AWS CLI
+- Elastic Container Registry
+- Elastic container Service
+- deploying to ECS using CI
 
 Section Twelve is a very comprehensive section where you will learn how to deploy your models using  infrastructure as a service.
 
@@ -190,7 +194,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4OTUyNjUyLDIwNTE1ODYyMDAsLTQ5Mz
-g1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAx
-Niw5NTcyMDA0MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTM4MDYyMTA4MywyMDUxNTg2MjAwLC00OT
+M4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUyLDExMDkyMTAw
+MTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
