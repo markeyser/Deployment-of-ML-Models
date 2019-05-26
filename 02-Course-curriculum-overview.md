@@ -84,11 +84,7 @@ Then we will wrap up with resources and guidance for engineering and Python best
 - Versioning and Logging
 - Building a Python package with the model
 
- in section 6. 
-
-We will continue building on from Section 4 where we wrote the code for deployment.
-
-We will create a simple application to train a mother and to make predictions with it.
+ in section 6 we will continue building on from Section 4, where we wrote the code for deployment. We will create a simple application to train a model and to make predictions with it.
 
 We will discuss about God just to capture they think about ability and you will learn to use versioning
 
@@ -194,6 +190,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzY0NjIsOTU3MjAwNDA5LDUzNDY4MT
-AwNiwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbNTQ1ODY2OTk4LDk1NzIwMDQwOSw1MzQ2OD
+EwMDYsLTU3NzEzMjE1OV19
 -->
