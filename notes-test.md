@@ -70,29 +70,11 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 - You will learn how to containerized your applications using Docker 
 
-- and we will guide you through deploying
+- And we will guide you through deploying your machine learning systems onto both platform as a service and infrastructure as a service Cloud computing solutions.
 
-your machine learning systems onto both platform as a service and infrastructure as a service.
-
-Cloud computing solutions.
-
-Finally we also include links and references to what other companies are doing worldwide to smooth and
-
-streamline their machine learning pipelines.
-
-So would you like to know more about the course check the next video for the complete course curriculum
-
-and in the unlikely event that you don't find the course useful.
-
-There is a 30 day money back guarantee.
-
-So what are you waiting for.
-
-And well today learn how to put your machine learning models live and start getting true value from
-
-your machine learning models.
+Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE2NDQxMTUsLTc0MDIyOTM5MSwtNj
+eyJoaXN0b3J5IjpbLTIwNDcyNTQxMDksLTc0MDIyOTM5MSwtNj
 Q3MDYwNjkzLC04MTUyMjU1ODcsLTgzMzkzNjY0NCwxOTQ1MDg2
 NzMxXX0=
 -->
