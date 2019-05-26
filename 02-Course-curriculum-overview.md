@@ -123,7 +123,7 @@ in Section 9 You will learn about the importance of testing and how to set up di
 
 We will also show you how to integrate these differentials tests with the continuous integration pipeline.
 
-## Selection 1: Deploying to a PaaS (Heroku)
+## Selection 10: Deploying to a PaaS (Heroku)
 
 - What is a PaaS?
 - Utilizing Heroku
@@ -132,7 +132,7 @@ We will also show you how to integrate these differentials tests with the contin
 
 in Section 10 you will learn how to deploy a model using platform as a service. You will learn what platform as a service is. We will be using Heroku for this course. So you will learn how to create the Heroku account and how to configure it to deploy your mothers and then you will deploy your mother using Heroku.mYou will also implement testing and continuous integration using Heroku.
 
-## Selection: Running Apps with Containers (Docker)
+## Selection 11: Running Apps with Containers (Docker)
 
 - Intro to containers and Docker
 - Installing Docker
@@ -140,15 +140,13 @@ in Section 10 you will learn how to deploy a model using platform as a service. 
 - Building and Running a Docker container
 - Releasing to Heroku utilizing Docker
 
- in section eleven, yoou will learn how to containerized your application using Docker.
+ in section eleven, you will learn how to containerized your application using Docker.
 
 You will learn about containers and about Docker.
 
 We will also show you how to install Docker and how to create an API Docker file.
 
-You will also learn how to build and run a docker container and how to release a Heroku application
-
-using Docker.
+You will also learn how to build and run a docker container and how to release a Heroku application using Docker.
 
 Section Twelve is a very comprehensive section where you will learn how to deploy your mother's use
 
@@ -194,7 +192,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMxODg1NDcsLTQ5Mzg1NjU3NywtNz
-E1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAxNiw5NTcyMDA0
-MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbOTEyNjE5MiwtNDkzODU2NTc3LC03MTU2Mj
+U0NTIsMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1
+MzQ2ODEwMDYsLTU3NzEzMjE1OV19
 -->
