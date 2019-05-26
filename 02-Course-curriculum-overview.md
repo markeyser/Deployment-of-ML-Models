@@ -25,7 +25,49 @@ It also contains some guidance on how to approach this course to maximize the kn
 - Both introduction and practical examples
 - Starting point for deployment your machine learning models
 
+get from it in Section 2.
+
+We will recap on the different steps of a typical machine learning pipeline.
+
+We will give you an overview of data gathering feature engineering feature selection.
+
+Building the machine learning models and assessing the machine learning models.
+
+We will cover the different steps both from a theory and a practical point of view.
+
+We will take you through a practical example of a typical machine learning pipeline to predict how the
+
+sale price.
+
+And this will create our start in machine learning model and code base to deploy the machine learning
+
+model.
+
+Then we will cover the system architecture required to set up a research and deployment machine learning
+
+pipeline you will learn what is a machine learning system architecture and why it is important.
+
+You will learn the different challenges encountered when creating a suitable system architecture.
+
+We will show you different architecture approaches and also the different architecture components.
+
+Finally you will learn about the importance of building reproducible machine learning pipelines right
+
+from the start of any machine learning project in Section 4.
+
+You will learn how to write production code to deploy a machine learning model for data scientists.
+
+This mean how to transform your Jupiter notebooks into production ready code go that is testable tractable
+
+and reproducible.
+
+You will learn the different ways available unused in the industry.
+
+You will learn how to code and deploy mothers using procedural programming or object oriented programming
+
+creating a custom pipeline for your business and also how to write code utilizing object oriented programming
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTg2NDM0OV19
+eyJoaXN0b3J5IjpbMjEwOTE3Nzc3N119
 -->
