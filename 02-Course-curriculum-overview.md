@@ -52,19 +52,17 @@ For data scientists this mean how to transform your Jupyter notebooks into produ
 
 You will learn how to code and deploy models using procedural programming or object oriented programming creating a custom pipeline for your business and also how to write code utilizing object oriented programming and liberating the power of a third party pipeline. This pipeline will be the industry standard pipeline from **scikit-learn**.  
 
-We will discuss the pros and connsof each implementation and our preferred option.
+We will discuss the pros and conns of each implementation and our preferred option.
 
-This section includes a bonus lecture discussing whether we should include feature selection algorithms
+This section includes a bonus lecture discussing whether we should include feature selection algorithms as part of the pipeline. 
 
-as part of the pipeline after this section.
+After this section, you will have transformed your Jupyter notebooks into production ready code and we are ready to move on to create an API.
 
-You will have transformed your Jupiter notebooks into production already cold and we are ready to move
+## Section 5: Cours Setup and Key Tools
 
-on to create an API.
 
-Section 5 is designed to get you up to speed with the key tools that we will use throughout the course.
 
-There are a few videos on installing configuring and how to use it.
+Section 5 is designed to get you up to speed with the key tools that we will use throughout the course. There are a few videos on installing configuring and how to use it.
 
 We will recap on system and Python path.
 
@@ -186,6 +184,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzEyNzM3MzcsNTM0NjgxMDA2LC01Nz
-cxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbMTc2MjE1MTAwOSw1MzQ2ODEwMDYsLTU3Nz
+EzMjE1OV19
 -->
