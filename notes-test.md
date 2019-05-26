@@ -23,9 +23,11 @@ This represents a major challenge because there is often a discrepancy between t
 
 In order to get the most value out of the machine learning models, It is important to deploy them into production as seamlessly as possible so the business can start using them to make practical decisions.
 
+## Why take this course?
 
+So why should you take this course in this course? We are going to take you through the entire machine learning lifecycle.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1ODQ0NDc1LC04MTUyMjU1ODcsLTgzMz
-kzNjY0NCwxOTQ1MDg2NzMxXX0=
+eyJoaXN0b3J5IjpbLTE0NDg2Nzg3MiwtODE1MjI1NTg3LC04Mz
+M5MzY2NDQsMTk0NTA4NjczMV19
 -->
