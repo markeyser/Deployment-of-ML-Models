@@ -61,7 +61,7 @@ After this section, you will have transformed your Jupyter notebooks into produc
 ## Section 5: Cours Setup and Key Tools
 
 - Git refresher
-- System path and pythonpath refresher
+- System path and `pythonpath` refresher
 - Virtual environments
 - How to use the course resources
 
@@ -187,6 +187,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA4OTgxODUsNTM0NjgxMDA2LC01Nz
-cxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
+MyMTU5XX0=
 -->
