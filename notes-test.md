@@ -19,10 +19,12 @@ Model deployment is one of the most difficult processes in the machine learning 
 
 Mother deployment requires coordination between data scientists, I.T. teams and devops, software developers and business professionals to make sure the model works reliably in their organization's production environment. 
 
-This represents a major challenge because there is often a discrepancy between the programming language in which the machine learning model is written and the languages your production system can understand and record in the model can extend the project timeline by weeks or months in order to get the most value out of the machine learning mothers.
+This represents a major challenge because there is often a discrepancy between the programming language in which the machine learning model is written and the languages your production system can understand, and recoding the model can extend the project timeline by weeks or months. 
+
+In order to get the most value out of the machine learning models, It is important to deploy them into production as seamlessly as possible so the business can start using them to make practical decisions.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDE1NDY0OSwtODMzOTM2NjQ0LDE5ND
+eyJoaXN0b3J5IjpbMjEwODQzNjc0OSwtODMzOTM2NjQ0LDE5ND
 UwODY3MzFdfQ==
 -->
