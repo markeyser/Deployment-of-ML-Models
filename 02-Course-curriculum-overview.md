@@ -25,19 +25,9 @@ It also contains some guidance on how to approach this course to maximize the kn
 - Both introduction and practical examples
 - Starting point for deployment your machine learning models
 
-get from it in Section 2.
+In Section 2 we will recap on the different steps of a typical machine learning pipeline. We will give you an overview of data gathering, feature engineering, feature selection, building the machine learning models, and assessing the machine learning models.
 
-We will recap on the different steps of a typical machine learning pipeline.
-
-We will give you an overview of data gathering feature engineering feature selection.
-
-Building the machine learning models and assessing the machine learning models.
-
-We will cover the different steps both from a theory and a practical point of view.
-
-We will take you through a practical example of a typical machine learning pipeline to predict how the
-
-sale price.
+We will cover the different steps both from a theory and a practical point of view. We will take you through a practical example of a typical machine learning pipeline to predict how the sale price.
 
 And this will create our start in machine learning model and code base to deploy the machine learning
 
@@ -69,5 +59,5 @@ creating a custom pipeline for your business and also how to write code utilizin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTE3Nzc3N119
+eyJoaXN0b3J5IjpbMzg2ODc4NjgwXX0=
 -->
