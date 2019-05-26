@@ -178,21 +178,13 @@ You will also learn how to use a AWS S3 for large data sets.
 
  in section 14 we will recap on the problems that are usually encountered during model deployment and how we can go about to identify those problems and resolve them.
 
-After this section you will find the final section with suggestions of next steps on this count belches for the instructors other courses after this course you should feel comfortable to deploy any machine
+After this section you will find the final section with suggestions of next steps on this count belches for the instructors other courses.
 
-learning model in various infrastructures and you will be familiar with various coding best practices.
+After this course you should feel comfortable to deploy any machine learning model in various infrastructures and you will be familiar with various coding best practices utilized in the industry.
 
-Realized in the industry.
-
-Finally if you need help you can visit our frequently asked questions and utilized the different links
-
-to additional resources that we have included all throughout the course you can also post your questions
-
-and we will try and answer as quickly as possible.
-
-Good luck and enjoy the course.
+Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NzI1NjU4LDIwNTE1ODYyMDAsLTQ5Mz
+eyJoaXN0b3J5IjpbNzk5ODUzOTkyLDIwNTE1ODYyMDAsLTQ5Mz
 g1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAx
 Niw5NTcyMDA0MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
 -->
