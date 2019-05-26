@@ -150,13 +150,9 @@ You will also learn how to build and run a docker container and how to release a
 
 ## Section 12: Deploying to an IaaS (AWS)
 
-Section Twelve is a very comprehensive section where you will learn how to deploy your mother's use
+Section Twelve is a very comprehensive section where you will learn how to deploy your models using  infrastructure as a service.
 
-in infrastructure as a service.
-
-In this course with just to use a W as you will learn how to create and set up an AWB account how to
-
-install a configure the AWB s command line interface.
+In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface.
 
 You will learn how to create an elastic container registry and upload images to it and you will also
 
@@ -194,7 +190,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mzc0Nzc2MywtNDkzODU2NTc3LC03MT
-U2MjU0NTIsMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1NzIwMDQw
-OSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbMjk1NjkzNDAyLC00OTM4NTY1NzcsLTcxNT
+YyNTQ1MiwxMzQzNjI5NTUyLDExMDkyMTAwMTYsOTU3MjAwNDA5
+LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
