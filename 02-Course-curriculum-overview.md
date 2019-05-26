@@ -150,11 +150,15 @@ You will also learn how to build and run a docker container and how to release a
 
 ## Section 12: Deploying to an IaaS (AWS)
 
+- Intro to AWS
+- Creating 
+
 Section Twelve is a very comprehensive section where you will learn how to deploy your models using  infrastructure as a service.
 
-In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an easy s cluster and how to deploy to an easy s cluster
+In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an easy s cluster and how to deploy to an ECS  cluster using continuous integration 
 
-using continuous integration in Section 13.
+## Section 13: Deploying with Big Data - Deep Learning
+in Section 13.
 
 We will cover how to deploy your mother that was trained on and needs to score big heavy data.
 
@@ -186,7 +190,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTU4NjIwMCwtNDkzODU2NTc3LC03MT
-U2MjU0NTIsMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1NzIwMDQw
-OSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbNzg4OTUyNjUyLDIwNTE1ODYyMDAsLTQ5Mz
+g1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAx
+Niw5NTcyMDA0MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
 -->
