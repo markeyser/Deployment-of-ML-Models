@@ -152,11 +152,7 @@ You will also learn how to build and run a docker container and how to release a
 
 Section Twelve is a very comprehensive section where you will learn how to deploy your models using  infrastructure as a service.
 
-In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface.
-
-You will learn how to create an elastic container registry and upload images to it and you will also
-
-learn everything about creating and updating an easy s cluster and how to deploy to an easy s cluster
+In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an easy s cluster and how to deploy to an easy s cluster
 
 using continuous integration in Section 13.
 
@@ -190,7 +186,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NjkzNDAyLC00OTM4NTY1NzcsLTcxNT
-YyNTQ1MiwxMzQzNjI5NTUyLDExMDkyMTAwMTYsOTU3MjAwNDA5
-LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbMjA1MTU4NjIwMCwtNDkzODU2NTc3LC03MT
+U2MjU0NTIsMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1NzIwMDQw
+OSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
 -->
