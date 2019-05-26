@@ -130,15 +130,7 @@ We will also show you how to integrate these differentials tests with the contin
 - Testing the deployment manually
 - Deployment to Heroku 
 
-in Section 10 you will learn how to deploy a model using platform as a service.
-
-You will learn what platform as a service is.
-
-We will be using Hiroko for this course.
-
-So you will learn how to create the Heroku account and how to configure it to deploy your mothers and
-
-then you will deploy your mother using Heroku.
+in Section 10 you will learn how to deploy a model using platform as a service. You will learn what platform as a service is. We will be using Heroku for this course. So you will learn how to create the Heroku account and how to configure it to deploy your mothers and then you will deploy your mother using Heroku.
 
 You will also implement testing and continuous integration using Heroku in section eleven.
 
@@ -196,7 +188,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzND
-M2Mjk1NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2
-LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTE5NDY2NDQwMDUsLTQ5Mzg1NjU3NywtNz
+E1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAxNiw5NTcyMDA0
+MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
 -->
