@@ -97,13 +97,13 @@ We will discuss about Gotchas to capture data incompatibility and you will learn
 
  in Section 7 we will deploy our model into a Rest API.
 
-You will learn how to build the API skeleton, for those less familiar with flask, we included a lecture with an introduction to flask and you will also learn about the version in unlocking
+You will learn how to build the API skeleton, for those less familiar with flask, we included a lecture with an introduction to flask and you will also learn about the versioning and loggingbin the API and also about schema validation.
 
-in the API and also about schema validation.
+Again all best practices while deploying machine learning models.
 
-Again all best practices while deploying machine learning models in Section 8.
+## Section 8: Serving the Model via REST API
 
-You will learn how to set up a continuous integration and continuous deployment pipeline.
+in Section 8 you will learn how to set up a continuous integration and continuous deployment pipeline.
 
 We will show you how to do so using psycho S.I..
 
@@ -189,6 +189,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MTYwNTk4LDExMDkyMTAwMTYsOTU3Mj
-AwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbLTUxNDgwODcxMCwxMTA5MjEwMDE2LDk1Nz
+IwMDQwOSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
 -->
