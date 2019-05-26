@@ -95,13 +95,9 @@ We will discuss about Gotchas to capture data incompatibility and you will learn
 - Versioning and Logging
 - Schema validation
 
- in Section 7.
+ in Section 7 we will deploy our model into a Rest API.
 
-We will deploy our model into a rest api.
-
-You will learn how to build the API skeleton for those less familiar with flask.
-
-We included a lecture with an introduction to flask and you will also learn about the version in unlocking
+You will learn how to build the API skeleton, for those less familiar with flask, we included a lecture with an introduction to flask and you will also learn about the version in unlocking
 
 in the API and also about schema validation.
 
@@ -193,6 +189,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0Nj
-gxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbMzI2MTYwNTk4LDExMDkyMTAwMTYsOTU3Mj
+AwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
