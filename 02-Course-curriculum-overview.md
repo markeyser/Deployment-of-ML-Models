@@ -51,6 +51,143 @@ Finally you will learn about the importance of building reproducible machine lea
 For data scientists this mean how to transform your Jupyter notebooks into production ready code. Code that is testable, tractable, and reproducible. You will learn the different ways available and used in the industry.
 
 You will learn how to code and deploy mothers using procedural programming or object oriented programming creating a custom pipeline for your business and also how to write code utilizing object oriented programming and liberating the power of a third party pipeline.
+
+This pipeline will be the industry standard pipeline from scikit- we will discuss the pros and cons
+
+of each implementation and our preferred option.
+
+This section includes a bonus lecture discussing whether we should include feature selection algorithms
+
+as part of the pipeline after this section.
+
+You will have transformed your Jupiter notebooks into production already cold and we are ready to move
+
+on to create an API.
+
+Section 5 is designed to get you up to speed with the key tools that we will use throughout the course.
+
+There are a few videos on installing configuring and how to use it.
+
+We will recap on system and Python path.
+
+We will give you an overview of virtual environments and how we are going to use them.
+
+In this course we will also recap on text editors and I.D. and show you which one we will use throughout
+
+the course.
+
+Then we will wrap up with resources and guidance for engineering and Python best practices.
+
+Make sure you don't miss this section in section 6.
+
+We will continue building on from Section 4 where we wrote the code for deployment.
+
+We will create a simple application to train a mother and to make predictions with it.
+
+We will discuss about God just to capture they think about ability and you will learn to use versioning
+
+and logging in your application.
+
+You will also learn how to build the model into a Python package.
+
+All key aspects of modern deployment in Section 7.
+
+We will deploy our model into a rest api.
+
+You will learn how to build the API skeleton for those less familiar with flask.
+
+We included a lecture with an introduction to flask and you will also learn about the version in unlocking
+
+in the API and also about schema validation.
+
+Again all best practices while deploying machine learning models in Section 8.
+
+You will learn how to set up a continuous integration and continuous deployment pipeline.
+
+We will show you how to do so using psycho S.I..
+
+We will show you how to set it up and how to configure it.
+
+You will also learn how to publish your mothers using Jim Fury a tool that is used in the industry and
+
+you will also learn how to test your continuous integration continuous deployment pipeline in Section
+
+9.
+
+You will learn about the importance of testing and how to set up differential tests for your machine
+
+learning pipeline to ensure reproducibility.
+
+We will also show you how to integrate these differentials tests with the continuous integration pipeline
+
+in Section 10.
+
+You will learn how to deploy a model using platform as a service.
+
+You will learn what platform as a service is.
+
+We will be using Hiroko for this course.
+
+So you will learn how to create the Heroku account and how to configure it to deploy your mothers and
+
+then you will deploy your mother using Heroku.
+
+You will also implement testing and continuous integration using Heroku in section eleven.
+
+You will learn how to containerized your application using Docker.
+
+You will learn about containers and about Docker.
+
+We will also show you how to install Docker and how to create an API Docker file.
+
+You will also learn how to build and run a docker container and how to release a Heroku application
+
+using Docker.
+
+Section Twelve is a very comprehensive section where you will learn how to deploy your mother's use
+
+in infrastructure as a service.
+
+In this course with just to use a W as you will learn how to create and set up an AWB account how to
+
+install a configure the AWB s command line interface.
+
+You will learn how to create an elastic container registry and upload images to it and you will also
+
+learn everything about creating and updating an easy s cluster and how to deploy to an easy s cluster
+
+using continuous integration in Section 13.
+
+We will cover how to deploy your mother that was trained on and needs to score big heavy data.
+
+We will introduce a new challenge and new data set to classify images using a convolution on neural
+
+network and then you will learn how to update your application to accommodate mothers that consume Big
+
+Data.
+
+You will also learn how to use a W S S3 for large data sets in section 14.
+
+We will recap on the problems that are usually encountered during model deployment and how we can go
+
+about to identify those problems and resolve them.
+
+After this section you will find the final section with suggestions of next steps on this count belches
+
+for the instructors other courses after this course you should feel comfortable to deploy any machine
+
+learning model in various infrastructures and you will be familiar with various coding best practices.
+
+Realized in the industry.
+
+Finally if you need help you can visit our frequently asked questions and utilized the different links
+
+to additional resources that we have included all throughout the course you can also post your questions
+
+and we will try and answer as quickly as possible.
+
+Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbNzA4NzIxNjQzLDUzNDY4MTAwNiwtNTc3MT
+MyMTU5XX0=
 -->
