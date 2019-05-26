@@ -110,11 +110,9 @@ Again all best practices while deploying machine learning models.
 
 in Section 8 you will learn how to set up a continuous integration and continuous deployment pipeline.
 
-We will show you how to do so using psycho S.I..
+We will show you how to do so using CircleCI. We will show you how to set it up and how to configure it.
 
-We will show you how to set it up and how to configure it.
-
-You will also learn how to publish your mothers using Jim Fury a tool that is used in the industry and
+You will also learn how to publish your models using Jim Fury a tool that is used in the industry and
 
 you will also learn how to test your continuous integration continuous deployment pipeline in Section
 
@@ -194,6 +192,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NDU3MDMyLDExMDkyMTAwMTYsOTU3Mj
-AwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbMTM0MzYyOTU1MiwxMTA5MjEwMDE2LDk1Nz
+IwMDQwOSw1MzQ2ODEwMDYsLTU3NzEzMjE1OV19
 -->
