@@ -123,7 +123,7 @@ in Section 9 You will learn about the importance of testing and how to set up di
 
 We will also show you how to integrate these differentials tests with the continuous integration pipeline.
 
-## Selection: Deploying to a PaaS (Heroku)
+## Selection 1: Deploying to a PaaS (Heroku)
 
 - What is a PaaS?
 - Utilizing Heroku
@@ -134,9 +134,13 @@ in Section 10 you will learn how to deploy a model using platform as a service. 
 
 ## Selection: Running Apps with Containers (Docker)
 
- in section eleven.
+- Intro to containers and Docker
+- Installing Docker
+- Creating an API App Dickerfile
+- Building and Running a Docker container
+- Releasing to Heroku utilizing Docker
 
-You will learn how to containerized your application using Docker.
+ in section eleven, yoou will learn how to containerized your application using Docker.
 
 You will learn about containers and about Docker.
 
@@ -190,7 +194,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjcyMTE4NjQsLTQ5Mzg1NjU3NywtNz
+eyJoaXN0b3J5IjpbLTE0NTMxODg1NDcsLTQ5Mzg1NjU3NywtNz
 E1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAxNiw5NTcyMDA0
 MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
 -->
