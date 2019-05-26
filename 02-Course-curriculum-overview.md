@@ -31,9 +31,7 @@ We will cover the different steps both from a theory and a practical point of vi
 
 And this will create our starting machine learning model and code base to deploy the machine learning model.
 
-Then we will cover the system architecture required to set up a research and deployment machine learning
-
-pipeline you will learn what is a machine learning system architecture and why it is important.
+Then we will cover the system architecture required to set up a research and deployment machine learning pipeline. You will learn what is a machine learning system architecture and why it is important.
 
 You will learn the different challenges encountered when creating a suitable system architecture.
 
@@ -57,5 +55,5 @@ creating a custom pipeline for your business and also how to write code utilizin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzg4Mzk4MF19
+eyJoaXN0b3J5IjpbNjk2NjY3MDE0XX0=
 -->
