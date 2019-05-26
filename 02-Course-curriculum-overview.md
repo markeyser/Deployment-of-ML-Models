@@ -125,9 +125,9 @@ We will also show you how to integrate these differentials tests with the contin
 
 ## Selection: Deploying to a PaaS (Heroku)
 
-in Section 10
 
-You will learn how to deploy a model using platform as a service.
+
+in Section 10 you will learn how to deploy a model using platform as a service.
 
 You will learn what platform as a service is.
 
@@ -193,7 +193,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjQ1MDc1NCwxMzQzNjI5NTUyLDExMD
+eyJoaXN0b3J5IjpbLTcxNTYyNTQ1MiwxMzQzNjI5NTUyLDExMD
 kyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5
 XX0=
 -->
