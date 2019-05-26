@@ -75,9 +75,11 @@ We will give you an overview of virtual environments and how we are going to use
 
 We will also recap on text editors and IDEs and show you which one we will use throughout the course.
 
-Then we will wrap up with resources and guidance for engineering and Python best practices.
+Then we will wrap up with resources and guidance for engineering and Python best practices. Make sure you don't miss this section.
 
-Make sure you don't miss this section in section 6.
+## Section 6: Machine Learning Pipeline Application
+
+ in section 6. 
 
 We will continue building on from Section 4 where we wrote the code for deployment.
 
@@ -187,6 +189,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ4NjY4NzgsOTU3MjAwNDA5LDUzND
-Y4MTAwNiwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbLTU2NTQzOTU0OCw5NTcyMDA0MDksNTM0Nj
+gxMDA2LC01NzcxMzIxNTldfQ==
 -->
