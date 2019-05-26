@@ -37,11 +37,12 @@ Finally you will learn about the importance of building reproducible machine lea
 
 ## Section 4: Building a reproducible ML pipeline 
 
+- How to transform your jupyter notebook into production ready code
+	- Different ways utiised in the 
+
  in Section 4 you will learn how to write production code to deploy a machine learning model for data scientists.
 
-This mean how to transform your Jupiter notebooks into production ready code go that is testable tractable
-
-and reproducible.
+This mean how to transform your Jupiter notebooks into production ready code go that is testable tractable and reproducible.
 
 You will learn the different ways available unused in the industry.
 
@@ -51,5 +52,5 @@ creating a custom pipeline for your business and also how to write code utilizin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzEzMjE1OV19
+eyJoaXN0b3J5IjpbNjg5MjY5NzQ4LC01NzcxMzIxNTldfQ==
 -->
