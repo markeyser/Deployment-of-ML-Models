@@ -17,7 +17,7 @@ For a business to be able to leverage the power of a machine learning model the 
 
 Model deployment is one of the most difficult processes in the machine learning pipeline and also the one that will allow us to extract real value from our model. 
 
-Mother deployment requires coordination between data scientists, I.T. teams and devops, software developers and business professionals to make sure the model works reliably in their organization's production environment. 
+Mother deployment requires coordination between data scientists, I.T. teams and DevOps, software developers and business professionals to make sure the model works reliably in their organization's production environment. 
 
 This represents a major challenge because there is often a discrepancy between the programming language in which the machine learning model is written and the languages your production system can understand, and recoding the model can extend the project timeline by weeks or months. 
 
@@ -25,6 +25,6 @@ In order to get the most value out of the machine learning models, It is importa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODQzNjc0OSwtODMzOTM2NjQ0LDE5ND
+eyJoaXN0b3J5IjpbLTgxNTIyNTU4NywtODMzOTM2NjQ0LDE5ND
 UwODY3MzFdfQ==
 -->
