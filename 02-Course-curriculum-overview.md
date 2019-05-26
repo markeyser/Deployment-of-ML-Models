@@ -86,9 +86,16 @@ Then we will wrap up with resources and guidance for engineering and Python best
 
  in section 6 we will continue building on from Section 4, where we wrote the code for deployment. We will create a simple application to train a model and to make predictions with it.
 
-We will discuss about Gotchas to capture data incompatibility and you will learn to use versioning and logging in your application. You will also learn how to build the model into a Python package.
+We will discuss about Gotchas to capture data incompatibility and you will learn to use versioning and logging in your application. You will also learn how to build the model into a Python package. All key aspects of modern deployment.
 
-All key aspects of modern deployment in Section 7.
+## Section 7: Serving the Model via REST API
+
+- Introduction to Flask
+- Creating the API skeleton
+- Versioning and Logging
+- Schema validation
+
+ in Section 7.
 
 We will deploy our model into a rest api.
 
@@ -186,6 +193,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTA0MTM0NSw5NTcyMDA0MDksNTM0Nj
+eyJoaXN0b3J5IjpbMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0Nj
 gxMDA2LC01NzcxMzIxNTldfQ==
 -->
