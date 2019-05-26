@@ -39,7 +39,9 @@ And finally we will cover various deployment solutions available to you such as 
 
   You will also learn about how to use Docker to ensure model reproducibility and robustness.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDIyOTM5MSwtNjQ3MDYwNjkzLC04MT
-UyMjU1ODcsLTgzMzkzNjY0NCwxOTQ1MDg2NzMxXX0=
+eyJoaXN0b3J5IjpbLTY1NzI1NTIwMSwtNzQwMjI5MzkxLC02ND
+cwNjA2OTMsLTgxNTIyNTU4NywtODMzOTM2NjQ0LDE5NDUwODY3
+MzFdfQ==
 -->
