@@ -64,13 +64,13 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 - You will take ready to use code and deploy your machine learning models using this code
 
-- the code will be suitable
+- The code will be suitable to create and expand your models in production with tests and error handling.
 
-to create and expand your models in production with tests and error handling.
+- Also you'll be provided with code to build the APIs and make calls to them with life data.
 
-Also you'll be provided with code to build the API eyes and make calls to them with life data.
+- You will learn how to containerized your applications using Docker 
 
-You will learn how to containerized your applications using Docker and we will guide you through deploying
+- and we will guide you through deploying
 
 your machine learning systems onto both platform as a service and infrastructure as a service.
 
@@ -92,7 +92,7 @@ And well today learn how to put your machine learning models live and start gett
 
 your machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzg3OTU5NSwtNzQwMjI5MzkxLC02ND
-cwNjA2OTMsLTgxNTIyNTU4NywtODMzOTM2NjQ0LDE5NDUwODY3
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjE2NDQxMTUsLTc0MDIyOTM5MSwtNj
+Q3MDYwNjkzLC04MTUyMjU1ODcsLTgzMzkzNjY0NCwxOTQ1MDg2
+NzMxXX0=
 -->
