@@ -125,7 +125,10 @@ We will also show you how to integrate these differentials tests with the contin
 
 ## Selection: Deploying to a PaaS (Heroku)
 
-
+- What is a PaaS?
+- Utilizing Heroku
+- Testing the deployment manually
+- Deployment to Heroku 
 
 in Section 10 you will learn how to deploy a model using platform as a service.
 
@@ -193,7 +196,7 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTYyNTQ1MiwxMzQzNjI5NTUyLDExMD
-kyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MTMyMTU5
-XX0=
+eyJoaXN0b3J5IjpbLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzND
+M2Mjk1NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2
+LC01NzcxMzIxNTldfQ==
 -->
