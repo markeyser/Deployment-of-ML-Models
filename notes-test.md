@@ -1,8 +1,6 @@
-These are tests notes
 
-more test notes
+# Introduction to the course
 
-and more notes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg4MTkzNTIsMTk0NTA4NjczMV19
+eyJoaXN0b3J5IjpbODI4MTY4OTgsMTk0NTA4NjczMV19
 -->
