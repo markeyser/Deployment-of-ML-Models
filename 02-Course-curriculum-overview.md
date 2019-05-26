@@ -4,7 +4,7 @@
 
 Welcome to the video on the course curriculum overview the course deployment of machine learning mothers contains 13 sections each one covering one key aspect of model deployment.
 
-## Introduction
+## Section 1: Introduction
 
 - Course Curriculum Overview
 - Knowledge requirements
@@ -14,8 +14,17 @@ The first section is an introduction section. It contains an introduction to the
 
 It also contains some guidance on how to approach this course to maximize the knowledge that you can get from it.
 
+## Section 2: Machine Learning - Research Environment
+
+- Machine Learning pipeline overview
+	- Data Gathering
+	- Feature engineering
+	- Feature selection
+	- Machine Learning model building
+	- Model assessment
+- Both introduction and practical ex
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ2NTc3NDldfQ==
+eyJoaXN0b3J5IjpbLTkxNjI3NTM0XX0=
 -->
