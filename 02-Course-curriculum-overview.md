@@ -65,15 +65,15 @@ After this section, you will have transformed your Jupyter notebooks into produc
 - Virtual environments
 - How to use the course resources
 
-Section 5 is designed to get you up to speed with the key tools that we will use throughout the course. There are a few videos on installing configuring and how to use Git.
+Section 5 is designed to get you up to speed with the key tools that we will use throughout the course. 
+
+There are a few videos on installing configuring and how to use Git.
 
 We will recap on system and Python path.
 
-We will give you an overview of virtual environments and how we are going to use them.
+We will give you an overview of virtual environments and how we are going to use them in this course. 
 
-In this course we will also recap on text editors and I.D. and show you which one we will use throughout
-
-the course.
+We will also recap on text editors and IDEs and show you which one we will use throughout the course.
 
 Then we will wrap up with resources and guidance for engineering and Python best practices.
 
@@ -187,6 +187,6 @@ and we will try and answer as quickly as possible.
 
 Good luck and enjoy the course.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY4MzQ4MjAsOTU3MjAwNDA5LDUzND
+eyJoaXN0b3J5IjpbLTE4MTQ4NjY4NzgsOTU3MjAwNDA5LDUzND
 Y4MTAwNiwtNTc3MTMyMTU5XX0=
 -->
