@@ -48,15 +48,9 @@ Finally you will learn about the importance of building reproducible machine lea
 
  in Section 4 you will learn how to write production code to deploy a machine learning model. 
 
-For data scientists this mean how to transform your Jupyter notebooks into production ready code go that is testable tractable and reproducible.
+For data scientists this mean how to transform your Jupyter notebooks into production ready code. Code that is testable, tractable, and reproducible. You will learn the different ways available and used in the industry.
 
-You will learn the different ways available unused in the industry.
-
-You will learn how to code and deploy mothers using procedural programming or object oriented programming
-
-creating a custom pipeline for your business and also how to write code utilizing object oriented programming
-
-
+You will learn how to code and deploy mothers using procedural programming or object oriented programming creating a custom pipeline for your business and also how to write code utilizing object oriented programming and liberating the power of a third party pipeline.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY3ODg0MCwtNTc3MTMyMTU5XX0=
+eyJoaXN0b3J5IjpbNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
 -->
