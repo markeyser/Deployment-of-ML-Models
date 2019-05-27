@@ -13,27 +13,13 @@ In the following videos, I will explain each one of the steps that we need to de
 
 Here we can see a typical machine learning pipeline.
 
-You can see that it is composed of several different steps. The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and
+You can see that it is composed of several different steps. The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and build the machine learning models. 
 
-build the machine learning Mother's Day data typically comes from different areas of the business itself
+The data typically comes from different areas of the business itself but also sometimes business by data from third parties or use data that is publicly available.
 
-but also sometimes business by data from third parties or use data that is publicly available.
+So we need to think how are we going to make these data available to the data scientists so they can start analyzing it and making the machine learning models.
 
-So we need to think how are we going to make these data available to the data scientists so they can
-
-start analyzing it and making the machine learning models.
-
-Once the data is made available to the data scientists the next step is data analysis.
-
-We need to get a good understanding of what the data is telling us.
-
-It is good practice to know the data well to get familiar with the variables to know how the variables
-
-are related to each other and to what we want to predict.
-
-If this was a supervised case we need to know what variables we can use.
-
-Surely there are regulations in your business on which variables we cannot use.
+Once the data is made available to the data scientists the next step is data analysis. We need to get a good understanding of what the data is telling us. It is good practice to know the data well to get familiar with the variables to know how the variables are related to each other and to what we want to predict. If this was a supervised case we need to know what variables we can use. Surely there are regulations in your business on which variables we cannot use.
 
 Once we have analyzed our data we are familiar with the variables under nature.
 
@@ -159,5 +145,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEzNjkzMTddfQ==
+eyJoaXN0b3J5IjpbLTEwNjA1MDUzNDVdfQ==
 -->
