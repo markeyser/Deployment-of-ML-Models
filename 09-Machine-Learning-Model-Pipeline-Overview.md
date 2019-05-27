@@ -13,13 +13,7 @@ In the following videos, I will explain each one of the steps that we need to de
 
 Here we can see a typical machine learning pipeline.
 
-You can see that it is composed of several different steps.
-
-The first step is gathering the data.
-
-But what do I mean by gathering the data.
-
-I mean collecting the data making the data available to the data scientists so they can go ahead and
+You can see that it is composed of several different steps. The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and
 
 build the machine learning Mother's Day data typically comes from different areas of the business itself
 
@@ -165,5 +159,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjUzMTQ3OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyODEzNjkzMTddfQ==
 -->
