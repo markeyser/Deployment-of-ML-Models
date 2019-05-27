@@ -21,21 +21,9 @@ So we need to think how are we going to make these data available to the data sc
 
 Once the data is made available to the data scientists the next step is data analysis. We need to get a good understanding of what the data is telling us. It is good practice to know the data well to get familiar with the variables to know how the variables are related to each other and to what we want to predict. If this was a supervised case we need to know what variables we can use. Surely there are regulations in your business on which variables we cannot use.
 
-Once we have analyzed our data we are familiar with the variables under nature.
+Once we have analyzed our data we are familiar with the variables under nature. The next step is feature engineering. After data analysis,  we should help gain a good understanding of whether we can use the variables as they are but if we need to transform them before passing them onto a machine learning algorithm.
 
-The next step is feature engineering after data analysis.
-
-We should help gain a good understanding of whether we can use the variables as they are.
-
-But if we need to transform them before passing them onto a machine learning algorithm do not feature
-
-engineering.
-
-We transform the variables to make them ready to be utilized in a machine learning mother.
-
-I will go in more detail in the next lecture about this step because this is extremely important but
-
-just to give you a flavor here by feature engineering I mean feel in meeting values and calling categorical
+ During feature engineering we transform the variables to make them ready to be utilized in a machine learning model. I will go in more detail in the next lecture about this step because this is extremely important but just to give you a flavor here by feature engineering I mean feel in meeting values and calling categorical
 
 variables and date among other things.
 
@@ -145,5 +133,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA1MDUzNDVdfQ==
+eyJoaXN0b3J5IjpbLTY3NDUyNjY0NF19
 -->
