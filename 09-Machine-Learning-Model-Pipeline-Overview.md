@@ -40,27 +40,10 @@ Now we are ready to deploy our model and what do I mean by being ready to deploy
 
 Okay. So what does it mean deploying a model in practical terms what do we need to do?  So going back to the machine learning pipeline which steps of the pipelines are the ones that we need to deploy. Is it just the model? Not really.That would be really easy. We need to deploy at least these three steps of the pipeline we need to make sure that the model that we put in the cloud or in any other of our computer systems is capable of taking into data and transforming its variables and then use only the selected variables to then make the predictions utilizing the mothers or algorithms that would build.
 
-So in essence we need to deploy an entire data and machine learning pipeline.
+So in essence we need to deploy an entire data and machine learning pipeline. That is why we speak of pipelines and not just of models. We need to deploy an entire pipeline, an entire sequence of steps that will allow us to get the data into where our mode is located, transform the data, field missing values and called categorical variables etc. Then select or somehow use only the variables that we agreed are the most predictive ones and then
+utilize those variables to make a mathematical calculation utilized in either bespoke or off the shelf algorithms and then be able to get those predictions out and send them back to our business systems.
 
-That is why we speak of pipelines and not just of models.
-
-We need to deploy an entire pipeline an entire sequence of steps that will allow us to get the data
-
-into where our mother is located transform the data field missing values and called categorical variables
-
-etc. Then select or somehow use only the variables that we agreed are the most predictive ones and then
-
-utilize those variables to make a mathematical calculation utilized in either bespoke or off the shelf
-
-algorithms and then be able to get those predictions out and send them back to our business systems.
-
-So this is what more than a deployment means.
-
-This is what we need to deploy onto our other systems or onto the cloud.
-
-So in the rest of this section I will take you through each one of these steps so we get a better understanding
-
-of what they are and why they are important and in the rest of the course.
+So this is what more than a deployment means. This is what we need to deploy onto our other systems or onto the cloud. So in the rest of this section I will take you through each one of these steps so we get a better understanding of what they are and why they are important and in the rest of the course.
 
 We will explain what we need to do to deploy each one of them in the form of an entire machine learning
 
@@ -68,5 +51,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzgzNTc3OF19
+eyJoaXN0b3J5IjpbNDAxODc2ODUyXX0=
 -->
