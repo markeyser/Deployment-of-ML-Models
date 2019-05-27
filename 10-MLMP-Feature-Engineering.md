@@ -1,6 +1,9 @@
 > Written with [StackEdit](https://stackedit.io/).
 
-# Machine Learning Model Pipel
+# Machine Learning Model Pipeline
+## Feature Engineering
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4OTIxNDAzXX0=
+eyJoaXN0b3J5IjpbLTEzMTQyOTc4MzBdfQ==
 -->
