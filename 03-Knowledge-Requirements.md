@@ -8,17 +8,16 @@ In this video you can learn the knowledge you should have to make the most out o
 
 - Feature Egneering
 - Feature selection
-- Linear 
+- Linear and Logistic Regression
+- Random Forest Trees
+- Gradient Boosted Trees (xgb)
+- Model Diagnostics: ROC-AUC, mse
 
-tailored to students with some knowledge of data science.
+The course is tailored to students with some knowledge of data science.
 
-You should be familiar with the meaning of feature engineering and feature selection and why it is important
+You should be familiar with the meaning of feature engineering and feature selection and why it is important and you should also know at least the most commonly used machine learning algorithms like linear and logistic regression and Random Forests. You should also know how to evaluate the performance of a machine learning algorithm. 
 
-and you should also know at least the most commonly used machine learning algorithms like linear and
-
-logistic regression and Random Forests.
-
-You should also know how to evaluate the performance of a machine learning algorithm in the course we
+in the course we
 
 will deploy a linear regression model and in the last section we will deploy a convolution of neural
 
@@ -101,5 +100,5 @@ Autoscroll
 -   [Course content](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13321626#content)
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU1MDYyMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDExNjk3OV19
 -->
