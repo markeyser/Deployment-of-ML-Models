@@ -17,37 +17,19 @@ The course is tailored to students with some knowledge of data science.
 
 You should be familiar with the meaning of feature engineering and feature selection and why it is important and you should also know at least the most commonly used machine learning algorithms like linear and logistic regression and Random Forests. You should also know how to evaluate the performance of a machine learning algorithm. 
 
-in the course we
+In the course we will deploy a linear regression model and in the last section we will deploy a convolution of neural network.
 
-will deploy a linear regression model and in the last section we will deploy a convolution of neural
+It will be helpful for you to understand what a linear regression is although you don't necessarily need to be familiar with deep learning to follow on with Section 13.
 
-network.
+In Section 2, we give you a quite extensive overview on the different steps of the machine learning pipeline including what feature engineering is and what feature selection is and why they are important.
 
-It will be helpful for you to understand what a linear regression is although you don't necessarily
+However it is not within the scope of the course to teach you the different ways in which you can engineer and select your features.
 
-need to be familiar with deep learning to follow on with Section 13 in Section 2.
+It is also not within the scope of the course to teach what the different algorithms are and what deep learning is.
 
-We give you a quite extensive overview on the different steps of the machine learning pipeline including
+So here we will focus mostly on the deployment aspect of things only covering things about machine learning when they are important for more deployment.
 
-what feature engineering is and what feature selection is and why they are important.
-
-However it is not within the scope of the course to teach you the different ways in which you can engineer
-
-and select your features.
-
-It is also not within the scope of the course to teach what the different algorithms are and what deep
-
-learning is.
-
-So here we will focus mostly on the deployment aspect of things only covering things about machine learning
-
-when they are important for more deployment.
-
-If you feel you need to learn more about any of the things in this slide we have included plenty of
-
-additional resources that you can use to level up your skills.
-
-And of course you can always ask questions in the forums.
+If you feel you need to learn more about any of the things in this slide we have included plenty of additional resources that you can use to level up your skills. And of course you can always ask questions in the forums.
 
 You should also have a good Python programming skills in particularly around libraries for numerical
 
@@ -100,5 +82,5 @@ Autoscroll
 -   [Course content](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13321626#content)
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDExNjk3OV19
+eyJoaXN0b3J5IjpbMTAyNzc4NTIxOV19
 -->
