@@ -5,19 +5,11 @@
   
 In this section I will give you an overview of the typical machine learning pipeline. What do I mean by this? What I mean is that in this section we are going to revisit together you and me the different sequential steps of a typical machine learning model building project. What do we do first? What do we do next? Essentially what are the things that we normally do when we are building or developing a machine learning model.
 
-Clearly these are the steps that we follow in business but maybe these are also the steps that you follow
+Clearly these are the steps that we follow in business but maybe these are also the steps that you follow when you're building a project as a hobby.
 
-when you're building a project as a hobby.
+In this lecture I will take you through the different steps of the machine learning model building pipeline. I will tell you what they are why they are important and which steps of the pipeline we need to consider when deploying a machine learning model. 
 
-In this lecture I will take you through the different steps of the machine learning model building pipeline.
-
-I will tell you what they are why they are important and which steps of the pipeline we need to consider
-
-when deploying a machine learning mother in the following videos.
-
-I will explain each one of the steps that we need to deploy in more detail.
-
-So let's go ahead and get started.
+In the following videos, I will explain each one of the steps that we need to deploy in more detail. So let's go ahead and get started.
 
 Here we can see a typical machine learning pipeline.
 
@@ -173,5 +165,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MTIxOTA2XX0=
+eyJoaXN0b3J5IjpbLTE0NjUzMTQ3OTJdfQ==
 -->
