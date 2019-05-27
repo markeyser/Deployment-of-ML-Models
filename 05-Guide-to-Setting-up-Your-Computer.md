@@ -57,8 +57,7 @@ Download data sets from Kaggle
     
 -   Visit the [V2 Plant Seedlings Dataset](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset/home) website, go to the tab "Data" and click on the buttom "Download (2GB)". Unzip the file. Make sure you remove the apostrophe in the folder "Sheperd's Purse" so that it is renamed to "Sheperds Purse" to avoid python string parsing issues.
     
-
--   [Cours](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13595392#content)
+[Cours](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13595392#content)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk3MTI1MTZdfQ==
+eyJoaXN0b3J5IjpbMzAwNTY5NTU5LC0xNDU5NzEyNTE2XX0=
 -->
