@@ -6,7 +6,7 @@ In this video you can learn the knowledge you should have to make the most out o
 
 ## Machine Learning
 
-- Feature Egneering
+- Feature Engineering
 - Feature selection
 - Linear and Logistic Regression
 - Random Forest Trees
@@ -49,20 +49,11 @@ Throughout the course we will be using datasets publicly available in Kaggle so 
 
 Finally it is important for water deployment to work in dedicated environments and use Git to track code version. Therefore knowledge of these skills will be highly beneficial for you.
 
-We do however include a section to refresh on the use of environments and the use of it which can help
+We do however include a section to refresh on the use of environments and the use of Git which can help you get started and follow through the course.
 
-you get started and follow through the course.
-
-In that section we will also include plenty of resources where you can learn more about environments
-
-and the use of IT in general.
+In that section we will also include plenty of resources where you can learn more about environments and the use of IT in general.
 
 So let's go ahead and get started.
-
-Autoscroll
-
--   [Course content](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13321626#content)
--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODkxOTY5NF19
+eyJoaXN0b3J5IjpbODg0MzMxNjAzXX0=
 -->
