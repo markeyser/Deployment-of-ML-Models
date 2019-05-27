@@ -29,7 +29,9 @@ After feature engineering, the next step is features election. Why do we need to
 
 Finally the step that we take to like the most which is model building here we will typically build many or maybe a few different machine learning algorithms analyze their performance and choose the one or the few ones that give us the best results.
 
-We typically evaluate many statistical metrics like the means squared error for regression or the accuracy or area under the rock curve for classification. But these metrics are not enough in business business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value.
+We typically evaluate many statistical metrics like the means squared error for regression or the accuracy or area under the roc curve for classification. 
+
+But these metrics are not enough in business. In business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value.
 
 So we evaluate what is the uplift in the business value.
 
@@ -109,5 +111,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNDEwOTg2XX0=
+eyJoaXN0b3J5IjpbLTkxMjM1ODkyMF19
 -->
