@@ -41,23 +41,13 @@ We will capitalize on the use of the could learn pipeline so the more familiar y
 
 This might mean that you will need extra time to fully understand the code we present in this course. But by no means it means that you won't be able to get to the result desired which is deploying your mothers in this course.
 
-We're going to use a python 3.6 installation if you don't have one. You can get it following the link in this slide.
+We're going to use a python 3.6 installation if you don't have one you can get it following the link in this slide.
 
-Any other Python three point six installation will also do the trick and we're going to tell more about
+Any other Python three point six installation will also do the trick and we're going to tell more about packaged versions and environments in dedicated lectures. 
 
-packaged versions and environments in dedicated lectures throughout the course.
+Throughout the course we will be using datasets publicly available in Kaggle so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
 
-We will be using datasets publicly available in Kaggle so you will need to set up a Kaggle account which
-
-is totally free and will allow you to access to all the data sets and competitions available in Kaggle
-
-to try your newly acquired skills.
-
-Finally it is important for water deployment to work in dedicated environments and use it to track code
-
-version.
-
-Therefore knowledge of these skills will be highly beneficial for you.
+Finally it is important for water deployment to work in dedicated environments and use Git to track code version. Therefore knowledge of these skills will be highly beneficial for you.
 
 We do however include a section to refresh on the use of environments and the use of it which can help
 
@@ -74,5 +64,5 @@ Autoscroll
 -   [Course content](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13321626#content)
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg5NjQ5NV19
+eyJoaXN0b3J5IjpbLTI4ODkxOTY5NF19
 -->
