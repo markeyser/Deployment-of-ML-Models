@@ -36,17 +36,7 @@ But these metrics are not enough in business. In business we need to go ahead an
 And once and only once all these stages are complete, once we build the model and it brings real business value, then we're happy to proceed to the main topic of this course which is more the deployment.
 
 ### Model Deployment
-Now we are ready to deploy our model and what do I mean by being ready to deploy our mother by this
-
-by deploying our machine learning model.
-
-I mean putting our model in the cloud or in any other system where it can be then accessed by our other
-
-systems in the business in order to get its predictions this way and only by deploying our models by
-
-making our models available to other business systems we can then extract the real and maximum value
-
-of our machine learning algorithm.
+Now we are ready to deploy our model and what do I mean by being ready to deploy our model?  by this, by deploying our machine learning model, I mean putting our model in the cloud or in any other system where it can be then accessed by our other systems in the business in order to get its predictions, this way and only by deploying our models by making our models available to other business systems we can then extract the real and maximum value of our machine learning algorithm.
 
 Okay.
 
@@ -98,5 +88,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTQ3OTI1Ml19
+eyJoaXN0b3J5IjpbMjc2MDI4MDg5XX0=
 -->
