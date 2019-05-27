@@ -13,6 +13,18 @@ If you are familiar with building machine learning models, but haven't yet deplo
 #### Software Engineers
 
 If you are familiar with software engineering best practices, and are an avid developer, then you can skip the video lectures in sections 4 to 7. You probably don't need to go over the code incrementally within each section. You may as well feel comfortable with going over the code in the last commit for each section only. Make sure however that you understand well sections 2 and 3, and understand well how to write code using the scikit-learn pipeline and the code base in the scikit-learn API to write your transformers (included in section 4).
+
+#### Data Engineers
+
+Data Engineers have generally quite mixed backgrounds, so it is hard to make a recommendation that will help the majority. If your role in the organisation is to build and maintain the API services that are serving the model, then the sections on creating a REST API, testing, CI/CD, deployment using PaaS, IaaS and Docker will be the most relevant to you. Make sure you understand the code that builds and trains the models first (section 4), so that then you can understand the different bits that are added to deploy via API or other infrastructures. Section 3, where we describe the different types of architectures and building a reproducible data pipeline from the start, will also be very useful for you.
+
+#### Business Leads and Product Owners
+
+For the people whose role is not technical, but rather bringing teams together in order to deploy and fully integrate a machine learning model with the other systems in the organisation, the most relevant sections are the introduction lectures in each section, where we explain what each of the components and steps needed to deploy a model are. You can probably skip all the technical lectures.
+
+That is all for now.
+
+**Enjoy the course!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjk2NjM5OF19
+eyJoaXN0b3J5IjpbLTY2ODA5MDUwOF19
 -->
