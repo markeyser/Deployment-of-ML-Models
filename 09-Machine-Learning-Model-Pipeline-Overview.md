@@ -38,27 +38,7 @@ And once and only once all these stages are complete, once we build the model an
 ### Model Deployment
 Now we are ready to deploy our model and what do I mean by being ready to deploy our model?  by this, by deploying our machine learning model, I mean putting our model in the cloud or in any other system where it can be then accessed by our other systems in the business in order to get its predictions, this way and only by deploying our models by making our models available to other business systems we can then extract the real and maximum value of our machine learning algorithm.
 
-Okay.
-
-So what does it mean deploying a model in practical terms what do we need to do.
-
-So going back to the machine learning pipeline which steps of the pipelines are the ones that we need
-
-to deploy.
-
-Is it just the mothers.
-
-Not really.
-
-That would be really easy.
-
-We need to deploy at least these three steps of the pipeline we need to make sure that the model that
-
-we put in the cloud or in any other of our computer systems is capable of taking into data and transforming
-
-its variables and then use only the selected variables to then make the predictions utilizing the mothers
-
-or algorithms that would build.
+Okay. So what does it mean deploying a model in practical terms what do we need to do?  So going back to the machine learning pipeline which steps of the pipelines are the ones that we need to deploy. Is it just the model? Not really.That would be really easy. We need to deploy at least these three steps of the pipeline we need to make sure that the model that we put in the cloud or in any other of our computer systems is capable of taking into data and transforming its variables and then use only the selected variables to then make the predictions utilizing the mothers or algorithms that would build.
 
 So in essence we need to deploy an entire data and machine learning pipeline.
 
@@ -88,5 +68,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MDI4MDg5XX0=
+eyJoaXN0b3J5IjpbLTM4NzgzNTc3OF19
 -->
