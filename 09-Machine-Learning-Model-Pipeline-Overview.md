@@ -31,21 +31,9 @@ Finally the step that we take to like the most which is model building here we w
 
 We typically evaluate many statistical metrics like the means squared error for regression or the accuracy or area under the roc curve for classification. 
 
-But these metrics are not enough in business. In business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value.
+But these metrics are not enough in business. In business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value. So we evaluate what is the uplift in the business value. Here we can measure different things depending on the business area that we're working on. For example if we were building models for fraud we would evaluate the amount of money that we would not disburse to fraudulent applications or if we were building mothers for advertising and we can estimate the value that the new customers would bring if we were to use the model. 
 
-So we evaluate what is the uplift in the business value.
-
-Here we can measure different things depending on the business area that we're working on.
-
-For example if we were building models for fraud we would evaluate the amount of money that we would
-
-not disburse to fraudulent applications or if we were building mothers for advertising and we can estimate
-
-the value that the new customers would bring if we were to use the mother and the once and only once.
-
-All these stages are complete.
-
-Once we build the model and it brings real business value then we're happy to proceed to the main topic
+And once and only once all these stages are complete, once we build the model and it brings real business value, then we're happy to proceed to the main topic
 
 of this course which is more the deployment.
 
@@ -111,5 +99,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjM1ODkyMF19
+eyJoaXN0b3J5IjpbMTAwNDk1MDUzXX0=
 -->
