@@ -23,15 +23,9 @@ Once the data is made available to the data scientists the next step is data ana
 
 Once we have analyzed our data we are familiar with the variables under nature. The next step is feature engineering. After data analysis,  we should help gain a good understanding of whether we can use the variables as they are but if we need to transform them before passing them onto a machine learning algorithm.
 
- During feature engineering we transform the variables to make them ready to be utilized in a machine learning model. I will go in more detail in the next lecture about this step because this is extremely important but just to give you a flavor here by feature engineering I mean feel in meeting values and calling categorical
+ During feature engineering we transform the variables to make them ready to be utilized in a machine learning model. I will go in more detail in the next lecture about this step because this is extremely important but just to give you a flavor here by feature engineering I mean feel in meeting values and calling categorical variables and date among other things.
 
-variables and date among other things.
-
-After feature engineering.
-
-The next step is features election.
-
-Why do we need to select features in the first place.
+After feature engineering, the next step is features election. Why do we need to select features in the first place.
 
 Well there is a lot to say on why this tape is vital for modern deployment and I will cover that in
 
@@ -133,5 +127,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDUyNjY0NF19
+eyJoaXN0b3J5IjpbLTE0NTgxNjE2ODZdfQ==
 -->
