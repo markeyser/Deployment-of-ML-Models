@@ -31,25 +31,17 @@ So here we will focus mostly on the deployment aspect of things only covering th
 
 If you feel you need to learn more about any of the things in this slide we have included plenty of additional resources that you can use to level up your skills. And of course you can always ask questions in the forums.
 
-You should also have a good Python programming skills in particularly around libraries for numerical
+You should also have a good Python programming skills in particularly around libraries for numerical computing and machine learning. 
 
-computing and machine learning.
+- Numpy
+- Pandas
+- Scikit-Learn
 
-We will capitalize on the use of the could learn pipeline so the more familiar you are with site could
+We will capitalize on the use of the could learn pipeline so the more familiar you are with scikit-learn the most you will get out of the course if you're not extremely familiar though. Don't worry we have included plenty of resources to brush up your skills.
 
-learn the most you will get out of the course if you're not extremely familiar though.
+This might mean that you will need extra time to fully understand the code we present in this course. But by no means it means that you won't be able to get to the result desired which is deploying your mothers in this course.
 
-Don't worry we have included plenty of resources to brush up your skills.
-
-This might mean that you will need extra time to fully understand the code we present in this course.
-
-But by no means it means that you won't be able to get to the result desired which is deploying your
-
-mothers in this course.
-
-We're going to use a python three point six installation if you don't have one.
-
-You can get it following the link in this slide.
+We're going to use a python 3.6 installation if you don't have one. You can get it following the link in this slide.
 
 Any other Python three point six installation will also do the trick and we're going to tell more about
 
@@ -82,5 +74,5 @@ Autoscroll
 -   [Course content](https://www.udemy.com/deployment-of-machine-learning-models/learn/lecture/13321626#content)
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzc4NTIxOV19
+eyJoaXN0b3J5IjpbLTExMzg5NjQ5NV19
 -->
