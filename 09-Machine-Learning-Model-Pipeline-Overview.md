@@ -25,25 +25,11 @@ Once we have analyzed our data we are familiar with the variables under nature. 
 
  During feature engineering we transform the variables to make them ready to be utilized in a machine learning model. I will go in more detail in the next lecture about this step because this is extremely important but just to give you a flavor here by feature engineering I mean feel in meeting values and calling categorical variables and date among other things.
 
-After feature engineering, the next step is features election. Why do we need to select features in the first place.
+After feature engineering, the next step is features election. Why do we need to select features in the first place. Well there is a lot to say on why this tape is vital for modern deployment and I will cover that in a dedicated lecture in this section as well so stay tuned but in a nutshell feature selection means finding those variables that are the most predictive ones and build the mothers using only those variables instead of the entire dataset.
 
-Well there is a lot to say on why this tape is vital for modern deployment and I will cover that in
+Finally the step that we take to like the most which is model building here we will typically build many or maybe a few different machine learning algorithms analyze their performance and choose the one or the few ones that give us the best results.
 
-a dedicated lecture in this section as well so stay tuned but in a nutshell feature selection means
-
-finding those variables that are the most predictive ones and build the mothers using only those variables
-
-instead of the entire dataset.
-
-Finally the step that we take to like the most which is model building here we will typically build
-
-many or maybe a few different machine learning algorithms analyze their performance and choose the one
-
-or the few ones that give us the best results.
-
-We typically evaluate many statistical metrics like the means for error for regression or the accuracy
-
-or area under the rock curve for classification but these metrics are not enough in business business
+We typically evaluate many statistical metrics like the means squared error for regression or the accuracy or area under the rock curve for classification but these metrics are not enough in business business
 
 we need to go ahead and see how the model performance that we evaluated using statistical metrics relate
 
@@ -127,5 +113,5 @@ pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgxNjE2ODZdfQ==
+eyJoaXN0b3J5IjpbMTMwNTcxNTU3Ml19
 -->
