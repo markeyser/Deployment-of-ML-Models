@@ -43,13 +43,9 @@ Okay. So what does it mean deploying a model in practical terms what do we need 
 So in essence we need to deploy an entire data and machine learning pipeline. That is why we speak of pipelines and not just of models. We need to deploy an entire pipeline, an entire sequence of steps that will allow us to get the data into where our mode is located, transform the data, field missing values and called categorical variables etc. Then select or somehow use only the variables that we agreed are the most predictive ones and then
 utilize those variables to make a mathematical calculation utilized in either bespoke or off the shelf algorithms and then be able to get those predictions out and send them back to our business systems.
 
-So this is what more than a deployment means. This is what we need to deploy onto our other systems or onto the cloud. So in the rest of this section I will take you through each one of these steps so we get a better understanding of what they are and why they are important and in the rest of the course.
-
-We will explain what we need to do to deploy each one of them in the form of an entire machine learning
-
-pipeline.
+So this is what more than a deployment means. This is what we need to deploy onto our other systems or onto the cloud. So in the rest of this section I will take you through each one of these steps so we get a better understanding of what they are and why they are important and in the rest of the course we will explain what we need to do to deploy each one of them in the form of an entire machine learning pipeline.
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxODc2ODUyXX0=
+eyJoaXN0b3J5IjpbMTc3NTk4MjkyOF19
 -->
