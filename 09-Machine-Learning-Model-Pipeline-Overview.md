@@ -1,5 +1,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 
+# Section 2
+---
 # Machine Learning Model Pipeline Overview
 
   
@@ -47,5 +49,5 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTk4MjkyOF19
+eyJoaXN0b3J5IjpbLTE0MTU5OTI1MTUsMTc3NTk4MjkyOF19
 -->
