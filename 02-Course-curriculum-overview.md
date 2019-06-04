@@ -151,11 +151,9 @@ in Section 10 you will learn how to deploy a model using **platform as a service
 
  in section eleven, you will learn how to containerized your application using Docker.
 
-You will learn about containers and about Docker.
-
-We will also show you how to install Docker and how to create an API Docker file.
-
-You will also learn how to build and run a docker container and how to release a Heroku application using Docker.
+- You will learn about containers and about Docker.
+- We will also show you how to install Docker and how to create an API Docker file.
+- You will also learn how to build and run a docker container and how to release a Heroku application using Docker.
 
 ## Section 12: Deploying to an IaaS (AWS)
 
@@ -193,8 +191,8 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTQyMjY4NCw3OTk4NTM5OTIsMjA1MT
-U4NjIwMCwtNDkzODU2NTc3LC03MTU2MjU0NTIsMTM0MzYyOTU1
-MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3Nz
-EzMjE1OV19
+eyJoaXN0b3J5IjpbLTEyNTc1OTkyODEsNzk5ODUzOTkyLDIwNT
+E1ODYyMDAsLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1
+NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2LC01Nz
+cxMzIxNTldfQ==
 -->
