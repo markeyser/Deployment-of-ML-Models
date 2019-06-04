@@ -69,7 +69,9 @@ Section 5 is designed to get you up to speed with the key tools that we will use
 - We will recap on system and `pythonpath`.
 - We will give you an overview of virtual environments and how we are going to use them in this course. 
 - We will also recap on text editors and IDEs and show you which one we will use throughout the course.
-- Then we will wrap up with resources and guidance for engineering and Python best practices. Make sure you don't miss this section.
+- Then we will wrap up with resources and guidance for engineering and Python best practices. 
+
+Make sure you don't miss this section.
 
 ## Section 6: Machine Learning Pipeline Application
 
@@ -178,7 +180,7 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjE2NDI1NCw3OTk4NTM5OTIsMjA1MT
+eyJoaXN0b3J5IjpbLTU0MDE2NDk4Niw3OTk4NTM5OTIsMjA1MT
 U4NjIwMCwtNDkzODU2NTc3LC03MTU2MjU0NTIsMTM0MzYyOTU1
 MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3Nz
 EzMjE1OV19
