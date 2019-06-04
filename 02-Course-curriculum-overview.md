@@ -52,7 +52,7 @@ For data scientists this mean how to transform your Jupyter notebooks into produ
 
 You will learn how to code and deploy models using procedural programming or object oriented programming creating a custom pipeline for your business and also how to write code utilizing object oriented programming and liberating the power of a third party pipeline. This pipeline will be the industry standard pipeline from **scikit-learn**.  
 
-We will discuss the pros and conns of each implementation and our preferred option.
+We will discuss the pros and cons of each implementation and our preferred option.
 
 This section includes a bonus lecture discussing whether we should include feature selection algorithms as part of the pipeline. 
 
@@ -184,7 +184,8 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5ODUzOTkyLDIwNTE1ODYyMDAsLTQ5Mz
-g1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1NTIsMTEwOTIxMDAx
-Niw5NTcyMDA0MDksNTM0NjgxMDA2LC01NzcxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbLTE5MTUzNjMzODAsNzk5ODUzOTkyLDIwNT
+E1ODYyMDAsLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1
+NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2LC01Nz
+cxMzIxNTldfQ==
 -->
