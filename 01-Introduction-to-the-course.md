@@ -35,8 +35,7 @@ So why should you take this course in this course?
 - And then you will learn how to create an API and make calls to the API.
 - Then we'll introduce you to testing to corroborate that research and production models produced the same outcome given the same data. You learn about continuous integration. 
 - And finally we will cover various deployment solutions available to you such as platform as a service or infrastructure as a service.
-
-  You will also learn about how to use Docker to ensure model reproducibility and robustness.
+- You will also learn about how to use Docker to ensure model reproducibility and robustness.
 
 ## Who is this course for?
 
@@ -73,6 +72,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc1MzM2NDgsNTMzMTMwOTY4LC0yMD
-Q3MjU0MTA5XX0=
+eyJoaXN0b3J5IjpbMTU4NzkwNzQ3MSw1MzMxMzA5NjgsLTIwND
+cyNTQxMDldfQ==
 -->
