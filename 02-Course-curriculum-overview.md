@@ -85,7 +85,9 @@ Make sure you don't miss this section.
 - We will create a simple application to train a model and to make predictions with it.
 - We will discuss about Gotchas to capture data incompatibility and 
 - You will learn to use versioning and logging in your application. 
-- You will also learn how to build the model into a Python package. All key aspects of modern deployment.
+- You will also learn how to build the model into a Python package.
+
+All key aspects of modern deployment.
 
 ## Section 7: Serving the Model via REST API
 
@@ -183,7 +185,7 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjExNTcwLDc5OTg1Mzk5MiwyMDUxNT
+eyJoaXN0b3J5IjpbMjAwNTMxMzk0LDc5OTg1Mzk5MiwyMDUxNT
 g2MjAwLC00OTM4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUy
 LDExMDkyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
 MyMTU5XX0=
