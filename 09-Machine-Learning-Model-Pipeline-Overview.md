@@ -57,7 +57,14 @@ And once and only once all these stages are completed, once we build the model a
 ### Model Deployment
 Now we are ready to deploy our model. And what do I mean by being ready to deploy our model?  by this, by deploying our machine learning model, I mean putting our model in the cloud or in any other system where it can be then accessed by our other systems in the business in order to get its predictions, this way and only by deploying our models by making our models available to other business systems, we can then extract the real and maximum value of our machine learning algorithm.
 
-Okay. So what does it mean deploying a model in practical terms what do we need to do?  So going back to the machine learning pipeline which steps of the pipelines are the ones that we need to deploy. Is it just the model? Not really.That would be really easy. We need to deploy at least these three steps of the pipeline we need to make sure that the model that we put in the cloud or in any other of our computer systems is capable of taking into data and transforming its variables and then use only the selected variables to then make the predictions utilizing the mothers or algorithms that would build.
+1. Gathering Data Sources
+2. Data Analysis
+3. Data Pre-processing - Feature Engineering
+4. Variable selection - Feature Selection
+5. Machine Learning Model building
+6. Model building Business uplift evaluation
+
+Okay. So what does it mean deploying a model in practical terms? what do we need to do?  So going back to the machine learning pipeline which steps of the pipelines are the ones that we need to deploy. Is it just the model? Not really.That would be really easy. We need to deploy at least these three steps of the pipeline we need to make sure that the model that we put in the cloud or in any other of our computer systems is capable of taking into data and transforming its variables and then use only the selected variables to then make the predictions utilizing the mothers or algorithms that would build.
 
 So in essence we need to deploy an entire data and machine learning pipeline. That is why we speak of pipelines and not just of models. We need to deploy an entire pipeline, an entire sequence of steps that will allow us to get the data into where our mode is located, transform the data, field missing values and called categorical variables etc. Then select or somehow use only the variables that we agreed are the most predictive ones and then
 utilize those variables to make a mathematical calculation utilized in either bespoke or off the shelf algorithms and then be able to get those predictions out and send them back to our business systems.
@@ -66,6 +73,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY4NjUzMDUsLTE1MjAyNjIyNjMsMT
-c3NTk4MjkyOF19
+eyJoaXN0b3J5IjpbMTE5NzY0MDI1OSwtMTUyMDI2MjI2MywxNz
+c1OTgyOTI4XX0=
 -->
