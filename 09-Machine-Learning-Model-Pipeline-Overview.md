@@ -52,10 +52,10 @@ We typically evaluate many statistical metrics like the **means squared error** 
 
 But these metrics are not enough in business. In business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value. So we evaluate what is the **uplift** in the business value. And here we can measure different things depending on the business area that we're working on. For example, if we were building models for fraud we would evaluate the amount of money that we would not disburse to fraudulent applications or if we were building mothers for advertising, we can estimate the value that the new customers would bring if we were to use the model. 
 
-And once and only once all these stages are complete, once we build the model and it brings real business value, then we're happy to proceed to the main topic of this course which is more the deployment.
+And once and only once all these stages are completed, once we build the model and it brings real business value, then we're happy to proceed to the main topic of this course which is more the deployment.
 
 ### Model Deployment
-Now we are ready to deploy our model and what do I mean by being ready to deploy our model?  by this, by deploying our machine learning model, I mean putting our model in the cloud or in any other system where it can be then accessed by our other systems in the business in order to get its predictions, this way and only by deploying our models by making our models available to other business systems we can then extract the real and maximum value of our machine learning algorithm.
+Now we are ready to deploy our model. And what do I mean by being ready to deploy our model?  by this, by deploying our machine learning model, I mean putting our model in the cloud or in any other system where it can be then accessed by our other systems in the business in order to get its predictions, this way and only by deploying our models by making our models available to other business systems we can then extract the real and maximum value of our machine learning algorithm.
 
 Okay. So what does it mean deploying a model in practical terms what do we need to do?  So going back to the machine learning pipeline which steps of the pipelines are the ones that we need to deploy. Is it just the model? Not really.That would be really easy. We need to deploy at least these three steps of the pipeline we need to make sure that the model that we put in the cloud or in any other of our computer systems is capable of taking into data and transforming its variables and then use only the selected variables to then make the predictions utilizing the mothers or algorithms that would build.
 
@@ -66,6 +66,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjExMjM1NywtMTUyMDI2MjI2MywxNz
+eyJoaXN0b3J5IjpbMTM3NzUxOTg2NywtMTUyMDI2MjI2MywxNz
 c1OTgyOTI4XX0=
 -->
