@@ -50,7 +50,7 @@ Finally you will learn about the importance of building reproducible machine lea
 
 For data scientists this mean how to transform your Jupyter notebooks into production ready code. Code that is testable, tractable, and reproducible. You will learn the different ways available and used in the industry.
 
-You will learn how to code and deploy models using procedural programming or object oriented programming creating a custom pipeline for your business and also how to write code utilizing object oriented programming and liberating the power of a third party pipeline. This pipeline will be the industry standard pipeline from **scikit-learn**.  
+You will learn how to code and deploy models using **procedural programming** or **object oriented programming** creating a **custom pipeline** for your business. And also, how to write code utilizing object oriented programming and liberating the power of a **third party pipeline**. This pipeline will be the industry standard pipeline from **scikit-learn**.  
 
 We will discuss the pros and cons of each implementation and our preferred option.
 
@@ -184,7 +184,7 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUzNjMzODAsNzk5ODUzOTkyLDIwNT
+eyJoaXN0b3J5IjpbLTEyNTA5NDExNDYsNzk5ODUzOTkyLDIwNT
 E1ODYyMDAsLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1
 NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2LC01Nz
 cxMzIxNTldfQ==
