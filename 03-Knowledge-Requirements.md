@@ -35,7 +35,7 @@ You should also have a good Python programming skills in particularly around lib
 - Pandas
 - Scikit-Learn
 
-We will capitalize on the use of the could learn pipeline so the more familiar you are with scikit-learn the most you will get out of the course if you're not extremely familiar though. Don't worry we have included plenty of resources to brush up your skills.
+We will capitalize on the use of the **`scikit-learn`  pipeline** so the more familiar you are with scikit-learn the most you will get out of the course if you're not extremely familiar though. Don't worry we have included plenty of resources to brush up your skills.
 
 This might mean that you will need extra time to fully understand the code we present in this course. But by no means it means that you won't be able to get to the result desired which is deploying your mothers in this course.
 
@@ -53,5 +53,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY4Njc0NTksODg0MzMxNjAzXX0=
+eyJoaXN0b3J5IjpbLTExNzI0MTk3NjIsODg0MzMxNjAzXX0=
 -->
