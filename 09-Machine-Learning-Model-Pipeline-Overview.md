@@ -20,7 +20,11 @@ Here we can see a typical machine learning pipeline.
 5. Machine Learning Model building
 6. Model building Business uplift evaluation
 
-You can see that it is composed of several different steps. The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and build the machine learning models. 
+You can see that it is composed of several different steps. 
+
+### 1 Gathering Data Sources
+
+The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and build the machine learning models. 
 
 The data typically comes from different areas of the business itself but also sometimes business by data from third parties or use data that is publicly available.
 
@@ -54,5 +58,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyNjIyNjMsMTc3NTk4MjkyOF19
+eyJoaXN0b3J5IjpbLTEwODcyODg3NzQsLTE1MjAyNjIyNjMsMT
+c3NTk4MjkyOF19
 -->
