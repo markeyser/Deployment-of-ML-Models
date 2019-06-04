@@ -42,7 +42,9 @@ Once we have analyzed our data we are familiar with the variables under nature. 
 
 ### 4. Variable selection - Feature Selection
 
-After feature engineering, the next step is **features selection**. Why do we need to select features in the first place? Well there is a lot to say on why this tape is vital for modern deployment and I will cover that in a dedicated lecture in this section as well so stay tuned but in a nutshell feature selection means finding those variables that are the most predictive ones and build the mothers using only those variables instead of the entire dataset.
+After feature engineering, the next step is **features selection**. Why do we need to select features in the first place? Well there is a lot to say on why this tape is vital for modern deployment, and I will cover that in a dedicated lecture in this section as well, so stay tuned. But in a nutshell, feature selection means finding those variables that are the most predictive ones and build the mothers using only those variables instead of the entire dataset.
+
+### 5. Machine Learning Model building
 
 Finally the step that we take to like the most which is model building here we will typically build many or maybe a few different machine learning algorithms analyze their performance and choose the one or the few ones that give us the best results.
 
@@ -64,6 +66,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM2OTU2NzMsLTE1MjAyNjIyNjMsMT
-c3NTk4MjkyOF19
+eyJoaXN0b3J5IjpbMTI1Nzg2MTA4NSwtMTUyMDI2MjI2MywxNz
+c1OTgyOTI4XX0=
 -->
