@@ -183,7 +183,7 @@ In this course we just to use AWS.
 
 In Section 13 we will cover how to deploy your mother that was trained on and needs to score big heavy data.
 
-We will introduce a new challenge and new data set to classify images using a convolution on neural network and then you will learn how to update your application to accommodate mothers that consume Big Data.
+We will introduce a new challenge and new data set to classify images using a convolution on neural network and then you will learn how to update your application to accommodate models that consume Big Data.
 
 You will also learn how to use a AWS S3 for large data sets.
 
@@ -191,14 +191,14 @@ You will also learn how to use a AWS S3 for large data sets.
 
  in section 14 we will recap on the problems that are usually encountered during model deployment and how we can go about to identify those problems and resolve them.
 
-After this section you will find the final section with suggestions of next steps on this count belches for the instructors other courses.
+After this section you will find the final section with suggestions of next steps on this count vouchers for the instructors' other courses.
 
 After this course you should feel comfortable to deploy any machine learning model in various infrastructures and you will be familiar with various coding best practices utilized in the industry.
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcwOTUwMjYsNzk5ODUzOTkyLDIwNT
-E1ODYyMDAsLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1
-NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2LC01Nz
-cxMzIxNTldfQ==
+eyJoaXN0b3J5IjpbMjAwNTE2ODY4Miw3OTk4NTM5OTIsMjA1MT
+U4NjIwMCwtNDkzODU2NTc3LC03MTU2MjU0NTIsMTM0MzYyOTU1
+MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3Nz
+EzMjE1OV19
 -->
