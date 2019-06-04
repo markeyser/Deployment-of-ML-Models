@@ -22,7 +22,7 @@ Here we can see a typical machine learning pipeline.
 
 You can see that it is composed of several different steps. 
 
-### 1 Gathering Data Sources
+### 1. Gathering Data Sources
 
 The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and build the machine learning models. 
 
@@ -58,6 +58,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcyODg3NzQsLTE1MjAyNjIyNjMsMT
-c3NTk4MjkyOF19
+eyJoaXN0b3J5IjpbMTg4NjY2NDEwNiwtMTUyMDI2MjI2MywxNz
+c1OTgyOTI4XX0=
 -->
