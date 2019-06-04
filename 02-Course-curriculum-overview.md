@@ -166,7 +166,13 @@ in Section 10 you will learn how to deploy a model using **platform as a service
 
 Section twelve is a very comprehensive section where you will learn how to deploy your models using  **infrastructure as a service**.
 
-In this course we just to use AWS. You will learn how to create and set up an AWS account, how to install a configure the AWS command line interface. You will learn how to create an elastic container registry and upload images to it and you will also learn everything about creating and updating an ECS cluster and how to deploy to an ECS  cluster using continuous integration.
+In this course we just to use AWS. 
+
+- You will learn how to create and set up an AWS account, 
+- how to install a configure the AWS command line interface. 
+- You will learn how to create an elastic container registry and upload images to it 
+- and you will also learn everything about creating and updating an ECS cluster 
+- and how to deploy to an ECS  cluster using continuous integration.
 
 ## Section 13: Deploying with Big Data - Deep Learning
 
@@ -191,8 +197,8 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MTU5Mzc1LDc5OTg1Mzk5MiwyMDUxNT
-g2MjAwLC00OTM4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUy
-LDExMDkyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
-MyMTU5XX0=
+eyJoaXN0b3J5IjpbLTE3MjcwOTUwMjYsNzk5ODUzOTkyLDIwNT
+E1ODYyMDAsLTQ5Mzg1NjU3NywtNzE1NjI1NDUyLDEzNDM2Mjk1
+NTIsMTEwOTIxMDAxNiw5NTcyMDA0MDksNTM0NjgxMDA2LC01Nz
+cxMzIxNTldfQ==
 -->
