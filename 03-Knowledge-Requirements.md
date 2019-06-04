@@ -43,7 +43,9 @@ We will capitalize on the use of the **`scikit-learn`  pipeline** so the more fa
 > - and we're going to tell more about **packaged versions** and **environments** in dedicated lectures. 
 > - https://www.continuum.io/downloads
 
-Throughout the course we will be using datasets publicly available in Kaggle, so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
+## Data Competition Websites
+
+Throughout the course we will be using datasets publicly available in **Kaggle**, so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
 
 ### Environments, git
 
@@ -58,5 +60,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEwOTAxOCw4ODQzMzE2MDNdfQ==
+eyJoaXN0b3J5IjpbLTk3MTI0MzU2NSw4ODQzMzE2MDNdfQ==
 -->
