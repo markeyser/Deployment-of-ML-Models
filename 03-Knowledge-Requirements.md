@@ -52,7 +52,7 @@ Throughout the course we will be using datasets publicly available in **Kaggle**
 - Python environments
 - Git for version control
 
-Finally it is important for water deployment to work in dedicated environments and use Git to track code version. Therefore knowledge of these skills will be highly beneficial for you.
+Finally, it is important for model deployment to work in dedicated **environments** and use **Git** to track code version. Therefore knowledge of these skills will be highly beneficial for you.
 
 We do however include a section to refresh on the use of environments and the use of Git which can help you get started and follow through the course.
 
@@ -60,5 +60,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzIzNzU2Miw4ODQzMzE2MDNdfQ==
+eyJoaXN0b3J5IjpbMTI1ODgxMDU0Miw4ODQzMzE2MDNdfQ==
 -->
