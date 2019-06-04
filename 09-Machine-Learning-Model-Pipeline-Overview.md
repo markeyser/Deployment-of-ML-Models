@@ -46,7 +46,7 @@ After feature engineering, the next step is **features selection**. Why do we ne
 
 ### 5. Machine Learning Model building
 
-Finally the step that we take to like the most which is model building here we will typically build many or maybe a few different machine learning algorithms analyze their performance and choose the one or the few ones that give us the best results.
+Finally the step that we take to like the most which is **model building**. Here we will typically build many, or maybe a few, different machine learning algorithms, analyze their performance and choose the one, or the few ones, that give us the best results.
 
 We typically evaluate many statistical metrics like the means squared error for regression or the accuracy or area under the roc curve for classification. 
 
@@ -66,6 +66,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg2MTA4NSwtMTUyMDI2MjI2MywxNz
-c1OTgyOTI4XX0=
+eyJoaXN0b3J5IjpbLTEwMDA5NzcwNjcsLTE1MjAyNjIyNjMsMT
+c3NTk4MjkyOF19
 -->
