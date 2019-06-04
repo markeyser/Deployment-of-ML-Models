@@ -115,7 +115,8 @@ in Section 8 you will learn how to set up a continuous integration and continuou
 
 - We will show you how to do so using `CircleCI`. 
 - We will show you how to set it up and how to configure it.
-- You will also learn how to publish your models using Jim Fury a tool that is used in the industry and you will also learn how to test your continuous integration continuous deployment pipeline 
+- You will also learn how to publish your models using `Gemfury` a tool that is used in the industry 
+- and you will also learn how to test your continuous integration / continuous deployment pipeline 
 
 ## Selection 9: Differential Testing
 
@@ -187,7 +188,7 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMjAzNjcwLDc5OTg1Mzk5MiwyMDUxNT
+eyJoaXN0b3J5IjpbODQxNjYzMjE3LDc5OTg1Mzk5MiwyMDUxNT
 g2MjAwLC00OTM4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUy
 LDExMDkyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
 MyMTU5XX0=
