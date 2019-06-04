@@ -3,7 +3,7 @@
 # Section 2
 ## Machine Learning Model Pipeline Overview
 
-In this section I will give you an overview of the typical machine learning pipeline. What do I mean by this? What I mean is that in this section we are going to revisit together you and me the different sequential steps of a typical machine learning model building project. What do we do first? What do we do next? Essentially what are the things that we normally do when we are building or developing a machine learning model.
+In this section I will give you an overview of the typical machine learning pipeline. What do I mean by this? What I mean is that in this section we are going to revisit together, you and me, the different sequential steps of a typical machine learning model building project. What do we do first? What do we do next? Essentially what are the things that we normally do when we are building or developing a machine learning model.
 
 Clearly these are the steps that we follow in business but maybe these are also the steps that you follow when you're building a project as a hobby.
 
@@ -47,5 +47,5 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2NjU1MDUxLDE3NzU5ODI5MjhdfQ==
+eyJoaXN0b3J5IjpbMTkzNzQwMjMzNSwxNzc1OTgyOTI4XX0=
 -->
