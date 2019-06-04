@@ -41,10 +41,10 @@ So why should you take this course in this course?
 
 Deployment of machine learning mothers requires a concerted effort among:
 
-- data scientists 
-- software developers 
--  data engineers and 
--  business domain experts
+- Data Scientists 
+- Software Developers 
+- Data Engineers and 
+- Business Domain Experts
 
 This course offers something new and useful for all of these professionals the cause is ideally suited for intermediate and advanced data scientists.
 
@@ -72,6 +72,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzkwNzQ3MSw1MzMxMzA5NjgsLTIwND
+eyJoaXN0b3J5IjpbLTQ5ODg1NzQyNSw1MzMxMzA5NjgsLTIwND
 cyNTQxMDldfQ==
 -->
