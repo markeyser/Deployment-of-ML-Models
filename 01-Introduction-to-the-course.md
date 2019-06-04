@@ -9,7 +9,7 @@ By the end of this course you will know all the necessary steps and things you n
 
 ## Machine Learning Model Deployment
 
-What is more the deployment model deployment? It is the process of integrating a machine learning model into an existing **production environment ** so that we can use it to make business decisions based live or future data. It is one of the latest stages in the machine learning pipeline and potentially the most challenging.
+What is more the deployment model deployment? It is the process of integrating a machine learning model into an existing **production environment** so that we can use it to make business decisions based live or future data. It is one of the latest stages in the machine learning pipeline and potentially the most challenging.
 
 Why is more than deployment so important.?
 
@@ -74,5 +74,5 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcyNTQxMDldfQ==
+eyJoaXN0b3J5IjpbMTMzOTk2Nzc1NSwtMjA0NzI1NDEwOV19
 -->
