@@ -29,6 +29,8 @@ It is also not within the scope of the course to teach what the different algori
 
 If you feel you need to learn more about any of the things in this slide we have included plenty of additional resources that you can use to level up your skills. And of course you can always ask questions in the forums.
 
+## Python programming
+
 You should also have a good Python programming skills in particularly around libraries for numerical computing and machine learning. 
 
 - Numpy
@@ -37,9 +39,9 @@ You should also have a good Python programming skills in particularly around lib
 
 We will capitalize on the use of the **`scikit-learn`  pipeline** so the more familiar you are with scikit-learn the most you will get out of the course. If you're not extremely familiar though, don't worry, we have included plenty of resources to brush up your skills. This might mean that you will need extra time to fully understand the code we present in this course. But by no means it means that you won't be able to get to the result desired which is deploying your mothers in this course.
 
-- In this course, we're going to use a **python 3.6** installation if you don't have one you can get it following the link in this slide. Any other Python three 3.6 installation will also do the trick. 
-- and we're going to tell more about **packaged versions** and **environments** in dedicated lectures. 
-
+>- In this course, we're going to use a **python 3.6** installation if you don't have one you can get it following the link in this slide. Any other Python three 3.6 installation will also do the trick. 
+> - and we're going to tell more about **packaged versions** and **environments** in dedicated lectures. 
+> ``
 Throughout the course we will be using datasets publicly available in Kaggle, so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
 
 ### Environments, git
@@ -55,5 +57,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUxMzE1ODYsODg0MzMxNjAzXX0=
+eyJoaXN0b3J5IjpbLTczMTk1Njk4MSw4ODQzMzE2MDNdfQ==
 -->
