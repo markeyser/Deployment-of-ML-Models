@@ -15,7 +15,10 @@ Here we can see a typical machine learning pipeline.
 
 1. Gathering Data Sources
 2. Data Analysis
-3. Data Pre-pr
+3. Data Pre-processing
+4. Variable selection
+5. Machine Learning Model building
+6. Model building Business uplift evaluation
 
 You can see that it is composed of several different steps. The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and build the machine learning models. 
 
@@ -51,5 +54,5 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTk5Mzk0MiwxNzc1OTgyOTI4XX0=
+eyJoaXN0b3J5IjpbLTE1MjAyNjIyNjMsMTc3NTk4MjkyOF19
 -->
