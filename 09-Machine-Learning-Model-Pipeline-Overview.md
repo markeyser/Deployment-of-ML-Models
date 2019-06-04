@@ -32,7 +32,7 @@ So we need to think, how are we going to make these data available to the data s
 
 ### 2. Data Analysis
 
-Once the data is made available to the data scientists the next step is data analysis. We need to get a good understanding of what the data is telling us. It is good practice to know the data well to get familiar with the variables to know how the variables are related to each other and to what we want to predict. If this was a supervised case we need to know what variables we can use. Surely there are regulations in your business on which variables we cannot use.
+Once the data is made available to the data scientists, the next step is **data analysis**. We need to get a good understanding of what the data is telling us. It is good practice to know the data well to get familiar with the variables to know how the variables are related to each other and to what we want to predict if this was a supervised case. We need to know what variables we can use. Surely there are regulations in your business on which variables we cannot use.
 
 Once we have analyzed our data we are familiar with the variables under nature. The next step is feature engineering. After data analysis,  we should help gain a good understanding of whether we can use the variables as they are but if we need to transform them before passing them onto a machine learning algorithm.
 
@@ -60,6 +60,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTQwMTM1LC0xNTIwMjYyMjYzLDE3Nz
-U5ODI5MjhdfQ==
+eyJoaXN0b3J5IjpbLTE2NzkyNjAwODMsLTE1MjAyNjIyNjMsMT
+c3NTk4MjkyOF19
 -->
