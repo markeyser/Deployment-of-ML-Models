@@ -29,17 +29,12 @@ In order to get the most value out of the machine learning models, It is importa
 
 So why should you take this course in this course? 
 
-In this course we are going to take you through the entire machine learning lifecycle.
-
-We will start with building a machine learning model utilizing Jupyter and notebooks which is what most Data Scientists are used to.
-
-Then you will learn how to transform that code into code that can be used in production. So first we will show you the best practices around writing production code.
-
-And then you will learn how to create an API and make calls to the API.
-
-Then we'll introduce you to testing to corroborate that research and production models produced the same outcome given the same data. You learn about continuous integration. 
-
-And finally we will cover various deployment solutions available to you such as platform as a service or infrastructure as a service.
+- In this course we are going to take you through the entire machine learning lifecycle.
+- We will start with building a machine learning model utilizing Jupyter and notebooks which is what most Data Scientists are used to.
+- Then you will learn how to transform that code into code that can be used in production. So first we will show you the best practices around writing production code.
+- And then you will learn how to create an API and make calls to the API.
+- Then we'll introduce you to testing to corroborate that research and production models produced the same outcome given the same data. You learn about continuous integration. 
+- And finally we will cover various deployment solutions available to you such as platform as a service or infrastructure as a service.
 
   You will also learn about how to use Docker to ensure model reproducibility and robustness.
 
@@ -78,6 +73,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY1MjkzNTAsNTMzMTMwOTY4LC0yMD
+eyJoaXN0b3J5IjpbLTIwODc1MzM2NDgsNTMzMTMwOTY4LC0yMD
 Q3MjU0MTA5XX0=
 -->
