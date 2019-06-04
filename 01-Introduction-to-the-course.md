@@ -27,7 +27,9 @@ In order to get the most value out of the machine learning models, It is importa
 
 ## Why take this course?
 
-So why should you take this course in this course? We are going to take you through the entire machine learning lifecycle.
+So why should you take this course in this course? 
+
+In this course we are going to take you through the entire machine learning lifecycle.
 
 We will start with building a machine learning model utilizing Jupyter and notebooks which is what most Data Scientists are used to.
 
@@ -76,6 +78,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMzOTEyMjgsNTMzMTMwOTY4LC0yMD
+eyJoaXN0b3J5IjpbLTE3MDY1MjkzNTAsNTMzMTMwOTY4LC0yMD
 Q3MjU0MTA5XX0=
 -->
