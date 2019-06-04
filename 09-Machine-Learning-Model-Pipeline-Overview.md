@@ -26,7 +26,7 @@ You can see that it is composed of several different steps.
 
 The first step is gathering the data. But what do I mean by gathering the data?  I mean collecting the data making the data available to the data scientists so they can go ahead and build the machine learning models. 
 
-The data typically comes from different areas of the business itself but also sometimes business by data from third parties or use data that is publicly available.
+The data typically comes from different areas of the business itself, but also sometimes business by data from third parties or use data that is publicly available.
 
 So we need to think how are we going to make these data available to the data scientists so they can start analyzing it and making the machine learning models.
 
@@ -58,6 +58,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjY2NDEwNiwtMTUyMDI2MjI2MywxNz
+eyJoaXN0b3J5IjpbMTYyMzU5OTk3MiwtMTUyMDI2MjI2MywxNz
 c1OTgyOTI4XX0=
 -->
