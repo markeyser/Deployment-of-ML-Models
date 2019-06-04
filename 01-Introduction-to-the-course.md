@@ -48,15 +48,11 @@ Deployment of machine learning mothers requires a concerted effort among:
 
 This course offers something new and useful for all of these professionals. 
 
-The course is ideally suited for intermediate and advanced data scientists.
-
-If you have already built a few Machine Learning model and you are familiar with the different steps required to build the model like feature engineering, feature selection and you would like guidance deploying mothers to production then this is the course for you.
-
-The course is also suitable for data engineers wanting to integrate model production and API into their existing data pipelines.  
-
-This course is also suitable for software developers that want to expand their skills to step into AI development.  
-
-And finally as we use mostly open source tools, this course is also suitable for open source lovers.
+- The course is ideally suited for intermediate and advanced data scientists.
+- If you have already built a few Machine Learning model and you are familiar with the different steps required to build the model like feature engineering, feature selection and you would like guidance deploying mothers to production, then this is the course for you.
+- The course is also suitable for data engineers wanting to integrate model production and API into their existing data pipelines.  
+- This course is also suitable for software developers that want to expand their skills to step into AI development.  
+- And finally as we use mostly open source tools, this course is also suitable for open source lovers.
 
 ## So what will you take home from this course?
 
@@ -74,6 +70,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY4NjE5ODIsLTQ5ODg1NzQyNSw1Mz
-MxMzA5NjgsLTIwNDcyNTQxMDldfQ==
+eyJoaXN0b3J5IjpbLTQ4NTc0MTY3OSwtNDk4ODU3NDI1LDUzMz
+EzMDk2OCwtMjA0NzI1NDEwOV19
 -->
