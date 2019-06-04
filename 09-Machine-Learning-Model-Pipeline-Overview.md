@@ -50,7 +50,7 @@ Finally the step that we take to like the most which is **model building**. Here
 
 We typically evaluate many statistical metrics like the **means squared error** for regression or the **accuracy** or **area under the ROC curve** for classification. 
 
-But these metrics are not enough in business. In business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value. So we evaluate what is the uplift in the business value. Here we can measure different things depending on the business area that we're working on. For example if we were building models for fraud we would evaluate the amount of money that we would not disburse to fraudulent applications or if we were building mothers for advertising and we can estimate the value that the new customers would bring if we were to use the model. 
+But these metrics are not enough in business. In business we need to go ahead and see how the model performance that we evaluated using statistical metrics relate to business value. So we evaluate what is the **uplift** in the business value. And here we can measure different things depending on the business area that we're working on. For example, if we were building models for fraud we would evaluate the amount of money that we would not disburse to fraudulent applications or if we were building mothers for advertising, we can estimate the value that the new customers would bring if we were to use the model. 
 
 And once and only once all these stages are complete, once we build the model and it brings real business value, then we're happy to proceed to the main topic of this course which is more the deployment.
 
@@ -66,6 +66,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODg4NTIzLC0xNTIwMjYyMjYzLDE3Nz
-U5ODI5MjhdfQ==
+eyJoaXN0b3J5IjpbMTk1NjExMjM1NywtMTUyMDI2MjI2MywxNz
+c1OTgyOTI4XX0=
 -->
