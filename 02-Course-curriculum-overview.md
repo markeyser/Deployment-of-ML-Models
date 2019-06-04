@@ -80,9 +80,12 @@ Make sure you don't miss this section.
 - Versioning and Logging
 - Building a Python package with the model
 
- in section 6 we will continue building on from Section 4, where we wrote the code for deployment. We will create a simple application to train a model and to make predictions with it.
+ in section 6 we will continue building on from Section 4, where we wrote the code for deployment. 
 
-We will discuss about Gotchas to capture data incompatibility and you will learn to use versioning and logging in your application. You will also learn how to build the model into a Python package. All key aspects of modern deployment.
+- We will create a simple application to train a model and to make predictions with it.
+- We will discuss about Gotchas to capture data incompatibility and 
+- You will learn to use versioning and logging in your application. 
+- You will also learn how to build the model into a Python package. All key aspects of modern deployment.
 
 ## Section 7: Serving the Model via REST API
 
@@ -180,8 +183,8 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDE2NDk4Niw3OTk4NTM5OTIsMjA1MT
-U4NjIwMCwtNDkzODU2NTc3LC03MTU2MjU0NTIsMTM0MzYyOTU1
-MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3Nz
-EzMjE1OV19
+eyJoaXN0b3J5IjpbMTI2NjExNTcwLDc5OTg1Mzk5MiwyMDUxNT
+g2MjAwLC00OTM4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUy
+LDExMDkyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
+MyMTU5XX0=
 -->
