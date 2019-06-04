@@ -28,7 +28,7 @@ The first step is gathering the data. But what do I mean by gathering the data? 
 
 The data typically comes from different areas of the business itself, but also sometimes business by data from third parties or use data that is publicly available.
 
-So we need to think how are we going to make these data available to the data scientists so they can start analyzing it and making the machine learning models.
+So we need to think, how are we going to make these data available to the data scientists so they can start analyzing it and making the machine learning models.
 
 Once the data is made available to the data scientists the next step is data analysis. We need to get a good understanding of what the data is telling us. It is good practice to know the data well to get familiar with the variables to know how the variables are related to each other and to what we want to predict. If this was a supervised case we need to know what variables we can use. Surely there are regulations in your business on which variables we cannot use.
 
@@ -58,6 +58,6 @@ So this is what more than a deployment means. This is what we need to deploy ont
 
 See you in the next lecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzU5OTk3MiwtMTUyMDI2MjI2MywxNz
+eyJoaXN0b3J5IjpbMTQ4NDMwNTExMiwtMTUyMDI2MjI2MywxNz
 c1OTgyOTI4XX0=
 -->
