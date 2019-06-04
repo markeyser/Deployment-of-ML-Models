@@ -9,7 +9,7 @@ By the end of this course you will know all the necessary steps and things you n
 
 ## Machine Learning Model Deployment
 
-#### What is more the deployment model deployment? 
+#### What is model deployment? 
 
 Model deployment is the process of integrating a machine learning model into an existing **production environment** so that we can use it to make business decisions based on live or future data. It is one of the latest stages in the machine learning pipeline and potentially the most challenging.
 
@@ -76,6 +76,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzc1NTc4MSw1MzMxMzA5NjgsLTIwND
-cyNTQxMDldfQ==
+eyJoaXN0b3J5IjpbLTE3OTMzOTEyMjgsNTMzMTMwOTY4LC0yMD
+Q3MjU0MTA5XX0=
 -->
