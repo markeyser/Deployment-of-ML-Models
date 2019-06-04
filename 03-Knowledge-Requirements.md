@@ -57,8 +57,8 @@ Finally, it is important for model deployment to work in dedicated **environment
 We do however include a section to refresh on the use of environments and the use of Git which can help you get started and follow through the course.
 
 In that section we will also include plenty of resources where you can learn more about environments and the use of IT in general.
-
+ 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODgxMDU0Miw4ODQzMzE2MDNdfQ==
+eyJoaXN0b3J5IjpbMTE5OTA2MDUyNiw4ODQzMzE2MDNdfQ==
 -->
