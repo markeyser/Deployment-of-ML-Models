@@ -25,9 +25,7 @@ In Section 2, we give you a quite extensive overview on the different steps of t
 
 However it is not within the scope of the course to teach you the different ways in which you can engineer and select your features.
 
-It is also not within the scope of the course to teach what the different algorithms are and what deep learning is.
-
-So here we will focus mostly on the deployment aspect of things only covering things about machine learning when they are important for more deployment.
+It is also not within the scope of the course to teach what the different algorithms are and what deep learning is. So here we will focus mostly on the deployment aspect of things only covering things about machine learning when they are important for more deployment.
 
 If you feel you need to learn more about any of the things in this slide we have included plenty of additional resources that you can use to level up your skills. And of course you can always ask questions in the forums.
 
@@ -55,5 +53,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MzMxNjAzXX0=
+eyJoaXN0b3J5IjpbLTE0NjY4Njc0NTksODg0MzMxNjAzXX0=
 -->
