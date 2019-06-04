@@ -134,7 +134,12 @@ We will also show you how to integrate these differentials tests with the contin
 - Testing the deployment manually
 - Deployment to Heroku 
 
-in Section 10 you will learn how to deploy a model using platform as a service. You will learn what platform as a service is. We will be using Heroku for this course. So you will learn how to create the Heroku account and how to configure it to deploy your mothers and then you will deploy your mother using Heroku.mYou will also implement testing and continuous integration using Heroku.
+in Section 10 you will learn how to deploy a model using **platform as a service**. 
+
+- You will learn what platform as a service is. 
+- We will be using Heroku for this course. So you will learn how to create the Heroku account and how to configure it to deploy your mothers 
+- and then you will deploy your mother using Heroku.
+- You will also implement testing and continuous integration using Heroku.
 
 ## Selection 11: Running Apps with Containers (Docker)
 
@@ -188,8 +193,8 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNjYzMjE3LDc5OTg1Mzk5MiwyMDUxNT
-g2MjAwLC00OTM4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUy
-LDExMDkyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
-MyMTU5XX0=
+eyJoaXN0b3J5IjpbMTEyOTQyMjY4NCw3OTk4NTM5OTIsMjA1MT
+U4NjIwMCwtNDkzODU2NTc3LC03MTU2MjU0NTIsMTM0MzYyOTU1
+MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3Nz
+EzMjE1OV19
 -->
