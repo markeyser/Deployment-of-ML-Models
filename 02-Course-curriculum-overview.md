@@ -54,7 +54,7 @@ You will learn how to code and deploy models using **procedural programming** or
 
 This section includes a bonus lecture discussing whether we should include **feature selection algorithms** as part of the pipeline. 
 
-After this section, you will have transformed your Jupyter notebooks into production ready code and we are ready to move on to create an API.
+After this section, you will have transformed your Jupyter notebooks into production-ready code and we are ready to move on to create an API.
 
 ## Section 5: Cours Setup and Key Tools
 
@@ -182,7 +182,7 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjE1ODU5NCw3OTk4NTM5OTIsMjA1MT
+eyJoaXN0b3J5IjpbMTQwNTE0MzYzMSw3OTk4NTM5OTIsMjA1MT
 U4NjIwMCwtNDkzODU2NTc3LC03MTU2MjU0NTIsMTM0MzYyOTU1
 MiwxMTA5MjEwMDE2LDk1NzIwMDQwOSw1MzQ2ODEwMDYsLTU3Nz
 EzMjE1OV19
