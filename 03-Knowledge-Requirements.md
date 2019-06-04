@@ -47,7 +47,7 @@ We will capitalize on the use of the **`scikit-learn`  pipeline** so the more fa
 
 Throughout the course we will be using datasets publicly available in **Kaggle**, so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
 
-### Environments, git
+## Environments, git
 
 - Python environments
 - Git for version control
@@ -60,5 +60,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTI0MzU2NSw4ODQzMzE2MDNdfQ==
+eyJoaXN0b3J5IjpbLTc2MzIzNzU2Miw4ODQzMzE2MDNdfQ==
 -->
