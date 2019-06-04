@@ -15,7 +15,7 @@ Model deployment is the process of integrating a machine learning model into an 
 
 #### Why is model deployment so important?
 
-For a business to be able to leverage the power of a machine learning model the model needs to be fully deployed into production. If we cannot get practical insight from the model that is if we cannot score like data or real data with it then the impact of the model is severely limited.
+For a business to be able to leverage the power of a machine learning model the model needs to be fully deployed into production. If we cannot get practical insight from the model; that is, if we cannot score like data or real data with it, then the impact of the model is severely limited.
 
 Model deployment is one of the most difficult processes in the machine learning pipeline and also the one that will allow us to extract real value from our model. 
 
@@ -76,6 +76,6 @@ And finally as we use mostly open source tools, this course is also suitable for
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzEzMDg0NCw1MzMxMzA5NjgsLTIwND
+eyJoaXN0b3J5IjpbMTI1Mzc1NTc4MSw1MzMxMzA5NjgsLTIwND
 cyNTQxMDldfQ==
 -->
