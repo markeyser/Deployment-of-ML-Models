@@ -96,9 +96,11 @@ All key aspects of modern deployment.
 - Versioning and Logging
 - Schema validation
 
- in Section 7 we will deploy our model into a Rest API.
+ in Section 7 we will deploy our model into a REST API.
 
-You will learn how to build the API skeleton, for those less familiar with flask, we included a lecture with an introduction to flask and you will also learn about the versioning and loggingbin the API and also about schema validation.
+- You will learn how to build the API skeleton, for those less familiar with Flask, we included a lecture with an introduction to Flask
+-  and you will also learn about the versioning and logging in the API 
+-  and also about schema validation.
 
 Again all best practices while deploying machine learning models.
 
@@ -185,7 +187,7 @@ After this course you should feel comfortable to deploy any machine learning mod
 
 Finally if you need help you can visit our frequently asked questions and utilized the different links to additional resources that we have included all throughout the course you can also post your questions and we will try and answer as quickly as possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTMxMzk0LDc5OTg1Mzk5MiwyMDUxNT
+eyJoaXN0b3J5IjpbNjQ3MjA1MTcxLDc5OTg1Mzk5MiwyMDUxNT
 g2MjAwLC00OTM4NTY1NzcsLTcxNTYyNTQ1MiwxMzQzNjI5NTUy
 LDExMDkyMTAwMTYsOTU3MjAwNDA5LDUzNDY4MTAwNiwtNTc3MT
 MyMTU5XX0=
