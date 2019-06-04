@@ -40,7 +40,12 @@ We will capitalize on the use of the **`scikit-learn`  pipeline** so the more fa
 - In this course, we're going to use a **python 3.6** installation if you don't have one you can get it following the link in this slide. Any other Python three 3.6 installation will also do the trick. 
 - and we're going to tell more about **packaged versions** and **environments** in dedicated lectures. 
 
-Throughout the course we will be using datasets publicly available in Kaggle so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
+Throughout the course we will be using datasets publicly available in Kaggle, so you will need to set up a Kaggle account which is totally free and will allow you to access to all the data sets and competitions available in Kaggle to try your newly acquired skills.
+
+### Environments, git
+
+- Python environments
+- Git for version control
 
 Finally it is important for water deployment to work in dedicated environments and use Git to track code version. Therefore knowledge of these skills will be highly beneficial for you.
 
@@ -50,5 +55,5 @@ In that section we will also include plenty of resources where you can learn mor
 
 So let's go ahead and get started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc0NzExOTUsODg0MzMxNjAzXX0=
+eyJoaXN0b3J5IjpbLTE3MjUxMzE1ODYsODg0MzMxNjAzXX0=
 -->
