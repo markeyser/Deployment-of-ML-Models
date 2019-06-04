@@ -57,19 +57,14 @@ This course offers something new and useful for all of these professionals.
 ## So what will you take home from this course?
 
 - In this course you will get more than eight hours of video content and lifetime access to the lectures. 
-
 - You will take ready to use code and deploy your machine learning models using this code
-
 - The code will be suitable to create and expand your models in production with tests and error handling.
-
 - Also you'll be provided with code to build the APIs and make calls to them with life data.
-
 - You will learn how to containerized your applications using Docker 
-
 - And we will guide you through deploying your machine learning systems onto both platform as a service and infrastructure as a service Cloud computing solutions.
 
 Finally we also include links and references to what other companies are doing worldwide to smooth and streamline their machine learning pipelines.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTc0MTY3OSwtNDk4ODU3NDI1LDUzMz
-EzMDk2OCwtMjA0NzI1NDEwOV19
+eyJoaXN0b3J5IjpbODM3MTM3MjUxLC00ODU3NDE2NzksLTQ5OD
+g1NzQyNSw1MzMxMzA5NjgsLTIwNDcyNTQxMDldfQ==
 -->
