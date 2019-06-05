@@ -110,12 +110,13 @@ Why are these methods good?
 On the downside, 
 
 - filter methods look at one feature at the time so they do not capture feature redundancy or feature interaction.
+- And at the end of the day they tend to provide the lowest model performance.
 
-And at the end of the day they tend to provide the lowest model performance.
+### Wrapper methods
 
 Let's move on to wrapper methods.
 
-Wrapper methods do take the algorithm we intend to build into account when selecting the features and
+- Wrapper methods do take the algorithm we intend to build into account when selecting the features and
 
 they do not evaluate one feature at the time they rather evaluate a group of features wrapper methods
 
@@ -181,6 +182,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTA5MzQ0LDE4NzQ3MTA0MTEsLTIxND
-E2MzkxNDEsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbMTEwODQ2MjkwOCwxODc0NzEwNDExLC0yMT
+QxNjM5MTQxLC03NjY3Mzc5NjZdfQ==
 -->
