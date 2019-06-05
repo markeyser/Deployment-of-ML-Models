@@ -5,15 +5,16 @@
 ## Feature Selection
 
   
-In this video we will discuss the next step of the machine learning pipeline which is features election. What do I mean by features selection? Features selection refers to algorithms or procedures that will allow us to find the best subset of features from all the variables present in our dataset.
+In this video we will discuss the next step of the machine learning pipeline which is features election. What do I mean by features selection? Features selection refers to algorithms or procedures that will allow us to find the best subset of features from all the variables present in our dataset. This is, the process to identify the most predictive features. 
 
-This is, the process to identify the most predictive features at the beginning of the feature selection
+At the beginning of the feature selection process, we start with the entire dataset with all the variables and by the end of the feature selection process we end up with a smaller number of features which are typically the most predictive ones.
 
-process.
+## Why Do We Select Features?
 
-We start with the entire dataset with all the variables and by the end of the feature selection process
-
-we end up with a smaller number of features which are typically the most predictive ones.
+- Simple models are easier to interpret
+- Shorter training times
+- Enhanced generalization by reducing overfitting
+- Easier to implement by s developers -> Model production
 
 But the way that we select features to begin with.
 
@@ -233,5 +234,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI0MTA4MDJdfQ==
+eyJoaXN0b3J5IjpbMjM4MzgwMTIzXX0=
 -->
