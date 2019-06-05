@@ -35,7 +35,7 @@ For some algorithms, the presence of outliers is also the decremental. Outliers 
 - Affects all machine learning models
 	- scikit-learn
 
-So missing data, as I said,  is the absence of values for certain observations within a variable. And it affects of course all machine learning models in the sense that we can't really feed observations to a machine learning model that contains missing values, not a few since I could learn at least.
+So missing data, as I said,  is the absence of values for certain observations within a variable. And it affects of course all machine learning models in the sense that we can't really feed observations to a machine learning model that contains missing values, not if you use scikit-learn at least.
 
 So there are a variety of reasons why data could be missing a value can be lost or not stored properly
 
@@ -175,5 +175,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTU3MzM0LC0xMzE0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbMjE0NzgwNDIsLTEzMTQyOTc4MzBdfQ==
 -->
