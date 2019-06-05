@@ -83,25 +83,19 @@ And finally we also find correlation and correlated parables tend to provide the
 - Wrapper methods
 - Filter methods
 
-There are several ways in which we can select features. I am not going to go into much detail because this is not the scope of this course but just to give you a flavor.
+There are several ways in which we can select features. I am not going to go into much detail because this is not the scope of this course, but just to give you a flavor, there are three umbrella terms under which we group the different feature selection algorithms.
 
-There are three umbrella terms under which we group the different feature selection algorithms.
+- One group corresponds to the embedded methods.
 
-One group corresponds to the embedded methods.
+- Another group to the wrapper methods.
 
-Another group to the wrapper methods.
+- And then we have as well the filter methods.
 
-And then we have as well the filter methods.
+All of these group of algorithms have advantages and disadvantages. Let's go over them.
 
-All of these group of algorithms have advantages and disadvantages.
+### Filter methods
 
-Let's go over them.
-
-Let's for example think about filter methods among the filter methods we find for example simple statistical
-
-tests like ANOVA or keys squared.
-
-These methods are independent of the algorithms we intend to build at the end and they discriminate
+Let's for example think about filter methods. Among the filter methods we find for example simple statistical tests like ANOVA or keys squared. These methods are independent of the algorithms we intend to build at the end and they discriminate
 
 features based only on the features characteristics.
 
@@ -187,6 +181,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMzE3MzgzLDE4NzQ3MTA0MTEsLTIxND
-E2MzkxNDEsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbLTEzNzg2MTg5NTUsMTg3NDcxMDQxMSwtMj
+E0MTYzOTE0MSwtNzY2NzM3OTY2XX0=
 -->
