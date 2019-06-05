@@ -50,17 +50,9 @@ Why is feature selection so important? For multiple reasons really.
 
 Let's go back to why it is important to deploy models using the less amount of features possible. As
 
-I said we will need to build smaller Jason messages to be sent to and from the mother to our other business
+I said we will need to build smaller Jason messages to be sent to and from the model to our other business systems. This Jason messages contains the variables that we need to input into our model and then they will take the predictions out onto our systems.
 
-systems.
-
-This Jason messages contains the variables that we need to input into our model and then they will take
-
-the predictions out onto our systems.
-
-We also need to write less lines of code for error handling for example lines to handle the previously
-
-unseen values as we were discussing in the previous lecture typically we write error handlers for each
+We also need to write less lines of code for error handling. For example lines to handle the previously unseen values, as we were discussing in the previous lecture, typically we write error handlers for each
 
 and every variable we send into our model.
 
@@ -216,5 +208,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjAxMDgzMiwtNzY2NzM3OTY2XX0=
+eyJoaXN0b3J5IjpbLTE3NzI3MjM1NzIsLTc2NjczNzk2Nl19
 -->
