@@ -37,21 +37,11 @@ For some algorithms, the presence of outliers is also the decremental. Outliers 
 
 So missing data, as I said,  is the absence of values for certain observations within a variable. And it affects of course all machine learning models in the sense that we can't really feed observations to a machine learning model that contains missing values, not if you use scikit-learn at least.
 
-So there are a variety of reasons why data could be missing a value can be lost or not stored properly
+So there are a variety of reasons why data could be missing, a value can be lost or not stored properly for example during data storage or the value does not exist. For example if the variable comes from the deviation of two other variables and the second variable takes a value zero the division by zero does not exist.
 
-for example during data storage or the value does not exist.
+But he did it that was obtained from a survey let's say and the person refuses to answer a question that could also be a missing value.
 
-For example if the variable comes from the deviation of two other variables and the second variable
-
-takes a value zero the division by zero does not exist.
-
-But he did it that was obtained from a survey say and the person refuses to answer a question that could
-
-also be a missing value.
-
-So we need to be prepared to fill in those missing values with some sort of number to use in machine
-
-learning.
+So we need to be prepared to fill in those missing values with some sort of number to use in machine learning.
 
 The second problem I mentioned is the presence of flavors or strings in categorical variables.
 
@@ -175,5 +165,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzgwNDIsLTEzMTQyOTc4MzBdfQ==
+eyJoaXN0b3J5IjpbODg5NTEwOTUxLC0xMzE0Mjk3ODMwXX0=
 -->
