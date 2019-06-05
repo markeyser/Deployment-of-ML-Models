@@ -66,9 +66,7 @@ So this step is extremely important at the time of modern deployment because it 
 
 ### Categories: strings
 
-And finally for categorical variables, the presence of labels themselves, this is the presence of strings when we actually need numbers to fit machine than model used in scikit-lern,  is something that we need to address in a step that is called categorical variable
-
-encoding
+And finally for categorical variables, the presence of labels themselves, this is the presence of strings when we actually need numbers to fit machine than model used in scikit-learn,  is something that we need to address in a step that is called **categorical variable encoding**
 
 speaking of numerical variables instead what we normally consider when building machine and mothers
 
@@ -150,6 +148,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMDc0MDM3LDE5MTkzMjAxNDAsLTEzMT
-QyOTc4MzBdfQ==
+eyJoaXN0b3J5IjpbMTI2Nzc3MDcxNCwxOTE5MzIwMTQwLC0xMz
+E0Mjk3ODMwXX0=
 -->
