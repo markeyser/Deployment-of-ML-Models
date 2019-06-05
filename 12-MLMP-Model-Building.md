@@ -33,6 +33,8 @@ In fact there are multiple metrics that we can use and that you probably know ve
 
 So let's move on.
 
+## Model Stacking - Meta Ensembling
+
 Some of us may even go ahead and build the multiple machine learning algorithms and then build the mental
 
 model that takes in the predictions of all the initial models and combines them to make a better assessment
@@ -61,6 +63,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNDY1MjAyLDIwNTU5MDk0NDcsMTQ5Mz
+eyJoaXN0b3J5IjpbMTYwMzY0NDM3LDIwNTU5MDk0NDcsMTQ5Mz
 I1OTcyOV19
 -->
