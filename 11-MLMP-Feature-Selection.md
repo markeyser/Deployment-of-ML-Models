@@ -71,27 +71,15 @@ We often find that many of the body was present in our data sets are redundant. 
 
 What do I mean by redundancy? What often we find variables that are constant, these are variables that take one and only one value, the same value for all the observations, 
 
-we also find quasi constant variables.
+We also find quasi-constant variables. This is variables that take the same value for the great majority of the observations except for a tiny proportion. These variables tend to be quite useless to make predictions. So we may as well get rid of them.
 
-This is variables that take the same value for the great majority of the observations except for a tiny
+We also find duplications. This is two variables potentially even with different names but that otherwise identical in all of their values.
 
-proportion these variables tend to be quite useless to make predictions.
+And finally we also find correlation and correlated parables tend to provide the same information about the target that we want to predict. So there is no need to use the two variables if they're correlated including one of them already adds most of the value that can be extracted.
 
-So we may as well get rid of them.
+## Feature Selection Methdos
 
-We also find duplications.
-
-This is two variables potentially even with different names but that otherwise identical in all of their
-
-values.
-
-And finally we also find correlation and correlated parables tend to provide the same information about
-
-the target that we want to predict.
-
-So there is no need to use the two variables if they're correlated including one of them already adds
-
-most of the value that can be extracted.
+- Embeded 
 
 There are several ways in which we can select features.
 
@@ -201,6 +189,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk5MDI2MDIsLTIxNDE2MzkxNDEsLT
+eyJoaXN0b3J5IjpbLTE5OTIxMDI5MjAsLTIxNDE2MzkxNDEsLT
 c2NjczNzk2Nl19
 -->
