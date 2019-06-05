@@ -20,11 +20,9 @@ At the beginning of the feature selection process, we start with the entire data
 
 But the way that we select features to begin with.
 
-I couldn't possibly emphasize more the importance of selecting features when the machine learning models
+I couldn't possibly emphasize more the importance of selecting features when the machine learning models that you are building are to be used within a business. 
 
-that you are building are to be used within a business.
-
-Why is feature selection so important for multiple reasons really.
+Why is feature selection so important? For multiple reasons really.
 
 First simpler mothers are easier to interpret by the consumers of the bodies.
 
@@ -236,5 +234,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbLTIwMzUxMDIxNTksLTc2NjczNzk2Nl19
 -->
