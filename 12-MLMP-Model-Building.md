@@ -37,9 +37,12 @@ So let's move on.
 
 Some of us may even go ahead and build the multiple machine learning algorithms and then build the meta model that takes in the predictions of all the initial models and combines them to make a better assessment of the target. This is called metal and assembly and we call if we wanted make this aspect part of the machine learning pipeline as well. 
 
-In this course we will not introduce meta and assembling as part of the pipeline that we want to deploy because we want to keep it simple, but we will teach you enough to make you feel comfortable to include the method and symbol in as part of your deployed pipeline.
+In this course we will not introduce meta and assembling as part of the pipeline that we want to deploy because we want to keep it simple, but we will teach you enough to make you feel comfortable to include the meta assembling as part of your deployed pipeline if this is what you want and need to do. 
 
-If this is what you want and need to do and now we are ready to begin the process of modern deployment
+## Model Deployment
+
+
+And now we are ready to begin the process of modern deployment
 
 so far we have copied the machine learning pipeline from a theoretical perspective in the next set of
 
@@ -53,6 +56,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkwMDY3NTEsMTYwMzY0NDM3LDIwNT
-U5MDk0NDcsMTQ5MzI1OTcyOV19
+eyJoaXN0b3J5IjpbODU0MDE4MzQ4LC0yMDM5MDA2NzUxLDE2MD
+M2NDQzNywyMDU1OTA5NDQ3LDE0OTMyNTk3MjldfQ==
 -->
