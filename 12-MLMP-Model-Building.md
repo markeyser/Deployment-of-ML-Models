@@ -12,12 +12,9 @@ So we come to a point where we have our data. We have processed or engineered ou
 
 There are several models that we can build. We can build for example linear models like linear logistic regressions or models. We can also build decision trees based algorithms like random forest or gradient boosted trees. We can also build neural networks. This is just for supervised models but we can also build clustering algorithms or recommender systems you name it. 
 
+And then when we pass the pre process data through our mothers we are able to get the predictions that they make.  Within need to evaluate the predictions that these models make to make sure that the models bring good business value. We evaluate the performance using different metrics depending on the project for classification.
 
-And then when we pass the pre process data through our mothers we are able to get the predictions that they make. 
-
-Within need to evaluate the predictions that these models make to make sure that the models bring good business value. We evaluate the performance using different metrics depending on the project for classification.
-
-For example we can measure the rock a you see which gives us an indication of how many times the more
+For example we can measure the ROC as you see which gives us an indication of how many times the more
 
 than makes a good assessment versus how many times the model makes the wrong assessment.
 
@@ -61,5 +58,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTkwOTQ0NywxNDkzMjU5NzI5XX0=
+eyJoaXN0b3J5IjpbLTE0NTM3NTM4MTMsMjA1NTkwOTQ0NywxND
+kzMjU5NzI5XX0=
 -->
