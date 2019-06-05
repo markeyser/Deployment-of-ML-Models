@@ -62,9 +62,7 @@ The first is the cardinality of the variable. And by this, by cardinality, I mea
 
 A second problem is the presence of rare labels. Rare labels may also cause trees to overfit.  But most importantly, they represent an operational problem because they are rare. Some of these labels, because they are rare, because they are infrequent, because they are present only in a small proportion of the observations, will appear only in the training set and some of them will appear only on the test set. So the model will not know what to do with those labels that are present only in the test set and have never been seen during training as they were not were present in the training set.
 
-So this step is extremely important at the time of modern deployment because it involves additional  s steps that we need to take to tackle unseen by use.
-
-We will show you more on this in an inner dedicated section.
+So this step is extremely important at the time of modern deployment because it involves additional  s steps that we need to take to tackle unseen by use. We will show you more on this in an inner dedicated section.
 
 And finally for categorical variables the presence of labels themselves.
 
@@ -154,5 +152,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTMyMDE0MCwtMTMxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTE4ODkzNDI4NDgsMTkxOTMyMDE0MCwtMT
+MxNDI5NzgzMF19
 -->
