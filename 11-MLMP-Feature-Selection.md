@@ -64,17 +64,14 @@ As a data scientists, we need to keep this in mind so that we don't build models
 
 - Constant variables: only 1 value per value
 - Duplication: same variable multiple times in the dataset
-- Quasi - constant Var
+- Quasi - constant Variables: >99% of observations show same value
+- Correlation: Correlated variables provide the same information
 
-We often find that many of the body was present in our data sets are redundant.
+We often find that many of the body was present in our data sets are redundant. So why should we ship them all to our models in the cloud? 
 
-So why should we ship them all to our models in the cloud.
+What do I mean by redundancy? What often we find variables that are constant, these are variables that take one and only one value, the same value for all the observations, 
 
-What do I mean by redundancy.
-
-What often we find by rebels that are constant these are variables that take one and only one value
-
-the same value for all the observations we also find quasi constant variables.
+we also find quasi constant variables.
 
 This is variables that take the same value for the great majority of the observations except for a tiny
 
@@ -204,6 +201,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjUzMjE3MSwtMjE0MTYzOTE0MSwtNz
-Y2NzM3OTY2XX0=
+eyJoaXN0b3J5IjpbLTEzMDk5MDI2MDIsLTIxNDE2MzkxNDEsLT
+c2NjczNzk2Nl19
 -->
