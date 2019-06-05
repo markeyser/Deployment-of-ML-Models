@@ -89,6 +89,17 @@ And there are other algorithms that are sensitive to outliers as well. Think for
 
 ## Feature Magnitude - Scale
 
+- Machine learning models sensitive to feature scale:
+	- Linear and Logistic Regression
+	- Neural Networks
+	- Support Vector Machines
+	- KNN
+	- K-means clustering
+	- Linear Discriminant Analysis (LDA)
+	- Principal Component Analysis (PCA)
+- 
+
+
 And finally the magnitude of the features affect us.
 
 Well model performance think for example in a length variable.
@@ -131,6 +142,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4ODg2OTEwLDE5MTkzMjAxNDAsLTEzMT
-QyOTc4MzBdfQ==
+eyJoaXN0b3J5IjpbMTIwNTYyNjM1NywxOTE5MzIwMTQwLC0xMz
+E0Mjk3ODMwXX0=
 -->
