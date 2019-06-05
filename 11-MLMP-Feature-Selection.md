@@ -64,6 +64,7 @@ As a data scientists, we need to keep this in mind so that we don't build models
 
 - Constant variables: only 1 value per value
 - Duplication: same variable multiple times in the dataset
+- Quasi - constant Var
 
 We often find that many of the body was present in our data sets are redundant.
 
@@ -203,5 +204,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbMTg4NjUzMjE3MSwtMjE0MTYzOTE0MSwtNz
+Y2NzM3OTY2XX0=
 -->
