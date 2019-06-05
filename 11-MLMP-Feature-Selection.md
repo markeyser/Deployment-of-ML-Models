@@ -147,17 +147,7 @@ So then we come to embedded methods and they tend to have the suite of both worl
 
 On the downside they are not model agnostic, so features selected by random forest for example may not be the best to use in a linear model. 
 
-So what do we do with feature selection and how do we make it part of the pipeline? we can of course make feature selection part of the pipeline. But the issue is better resolved if we select the features ahead of building the pipeline that we want to deployed and then make the list of the selected features.
-
-Part of the pipeline that we want to deploy and this is what we're going to do in this course.
-
-We're not going to make the algorithm to select features part of the pipeline.
-
-We're rather going to come up with a list of features that we think that are most important and we are
-
-going to make that list of features.
-
-Part of the pipeline in the next section of the course I will cover more why we think that this is the
+So what do we do with feature selection and how do we make it part of the pipeline? we can of course make feature selection part of the pipeline. But the issue is better resolved if we select the features ahead of building the pipeline that we want to deployed and then make the list of the selected features part of the pipeline that we want to deploy. And this is what we're going to do in this course. We're not going to make the algorithm to select features part of the pipeline. We're rather going to come up with a list of features that we think that are most important and we are going to make that list of features part of the pipeline.  in the next section of the course I will cover more why we think that this is the
 
 way forward.
 
@@ -167,6 +157,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEzNDY2NzEsMTEwODQ2MjkwOCwxOD
+eyJoaXN0b3J5IjpbLTEwOTIyOTI2MTksMTEwODQ2MjkwOCwxOD
 c0NzEwNDExLC0yMTQxNjM5MTQxLC03NjY3Mzc5NjZdfQ==
 -->
