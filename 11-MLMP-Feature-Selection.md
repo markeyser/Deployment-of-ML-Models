@@ -42,7 +42,11 @@ Why is feature selection so important? For multiple reasons really.
 ## Reducing features for model deployment
 
 - Smaller json messages sent over to the model
-	- Json m
+	- Json messages contain only the necessary variables / inputs
+- Less lines of code to error handling
+	- Error handlers need to be written for each variable / input
+- Less information to log
+- Less features engineering code
 
 Let's go back to why it is important to deploy models using the less amount of features possible. As
 
@@ -212,5 +216,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDEyNTQzMywtNzY2NzM3OTY2XX0=
+eyJoaXN0b3J5IjpbLTU2MjAxMDgzMiwtNzY2NzM3OTY2XX0=
 -->
