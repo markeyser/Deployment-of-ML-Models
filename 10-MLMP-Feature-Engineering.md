@@ -15,15 +15,11 @@ in our datasets.
 
 ### Missing Data: Missing values within a variable
 
-One of the problems is missing data.
+One of the problems is missing data. This is the absence of values for certain observations within a variable.
 
-This is the absence of values for certain observations within a variable.
+### Labels: Strings in categorical variables
 
-A second aspect that we need to tackle is the presence of labels in categorical variables.
-
-This is the values of the variables are strings rather than numbers.
-
-And we can't use them as such in machine learning mothers certainly not in python using so I could learn
+A second aspect that we need to tackle is the presence of labels in categorical variables. This is the values of the variables are strings rather than numbers, and we can't use them as such in machine learning models certainly not in python using so I could learn
 
 a third consideration to keep in mind is the distribution of the variables fundamental variables and
 
@@ -181,6 +177,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM0MjI2MjYsLTEzMTQyOTc4MzBdfQ
-==
+eyJoaXN0b3J5IjpbNTMwOTMwNjM0LC0xMzE0Mjk3ODMwXX0=
 -->
