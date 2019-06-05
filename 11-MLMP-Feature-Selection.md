@@ -121,11 +121,12 @@ Let's move on to wrapper methods.
 
 #### Pros
 
-- So let me just tell you that the advantages of using wrapper methods are that they consider featureb interaction and that they tend to find the best feature combination for a given algorithm.
+- So let me just tell you that the advantages of using wrapper methods are that they consider feature interaction and that they tend to find the best feature combination for a given algorithm.
 
-On the downside they are not model agnostic which means that the combination of features they found
+#### Cons
 
-for a certain algorithm may not be the best for a different algorithm and proper methods in both building
+- On the downside they are not model agnostic which means that the combination of features they found for a certain algorithm may not be the best for a different algorithm 
+- and wrapper methods in both building
 
 a different machine learning model for each feature combination.
 
@@ -175,6 +176,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDQ3ODgxNCwxMTA4NDYyOTA4LDE4Nz
-Q3MTA0MTEsLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbLTEyMjA1MTYyOTYsMTEwODQ2MjkwOCwxOD
+c0NzEwNDExLC0yMTQxNjM5MTQxLC03NjY3Mzc5NjZdfQ==
 -->
