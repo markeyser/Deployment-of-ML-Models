@@ -31,7 +31,7 @@ For some algorithms, the presence of outliers is also the decremental. Outliers 
 
 ## Missing Data
 
-- Missing values for certain obervations
+- Missing values for certain observations
 - Affects all machine learning models
 	- scikit-learn
 
@@ -179,6 +179,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA1MTY1NzAsLTEzMTQyOTc4MzBdfQ
-==
+eyJoaXN0b3J5IjpbNzUzNTgxNTY5LC0xMzE0Mjk3ODMwXX0=
 -->
