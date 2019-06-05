@@ -116,19 +116,12 @@ On the downside,
 
 Let's move on to wrapper methods.
 
-- Wrapper methods do take the algorithm we intend to build into account when selecting the features and
+- Wrapper methods do take the algorithm we intend to build into account when selecting the features and they do not evaluate one feature at the time they rather evaluate a group of features. 
+- Wrapper methods are also known as greedy algorithms because in theory they evaluate all possible feature combinations and only then decide which one is the best. There are a few ways in which we can achieve this but I will not go over them right now.
 
-they do not evaluate one feature at the time they rather evaluate a group of features wrapper methods
+#### Pros
 
-are also known as greedy algorithms because in theory they evaluate all possible feature combinations
-
-and only then decide which one is the best.
-
-There are a few ways in which we can achieve this but I will not go over them right now.
-
-So let me just tell you that the advantages of using wrapper methods are that they consider feature
-
-interaction and that they tend to find the best feature combination for a given algorithm.
+- So let me just tell you that the advantages of using wrapper methods are that they consider featureb interaction and that they tend to find the best feature combination for a given algorithm.
 
 On the downside they are not model agnostic which means that the combination of features they found
 
@@ -182,6 +175,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODQ2MjkwOCwxODc0NzEwNDExLC0yMT
-QxNjM5MTQxLC03NjY3Mzc5NjZdfQ==
+eyJoaXN0b3J5IjpbMTI4NDQ3ODgxNCwxMTA4NDYyOTA4LDE4Nz
+Q3MTA0MTEsLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
 -->
