@@ -58,13 +58,9 @@ The second problem I mentioned is the presence of labels or strings in categoric
 
 The first is the cardinality of the variable. And by this, by cardinality, I mean the number of different labels or categories that the variable can take. In fact variables with big number of categories tend to dominate over variables with smaller number of categories at the time of with the machine learning models. And this is particularly true for three based algorithms. Three base methods tend to overfit to variables with high cardinality 
 
-second problem
+### Rare Labels: infrequent categories
 
-is the presence of rare labels rare labels may also cause trees to outfit.
-
-But most importantly they represent an operational problem because they are rare.
-
-Some of these labels because they are rare because they are infrequent because they are present only
+A second problem is the presence of rare labels. Rare labels may also cause trees to overfit.  But most importantly, they represent an operational problem because they are rare. Some of these labels, because they are rare, because they are infrequent because they are present only
 
 in a small proportion of the observations will appear only in the training set and some of them will
 
@@ -168,5 +164,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjM4MTg3MSwtMTMxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTY3MDk5NDUxNywtMTMxNDI5NzgzMF19
 -->
