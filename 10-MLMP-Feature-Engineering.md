@@ -64,11 +64,9 @@ A second problem is the presence of rare labels. Rare labels may also cause tree
 
 So this step is extremely important at the time of modern deployment because it involves additional  s steps that we need to take to tackle unseen by use. We will show you more on this in an inner dedicated section.
 
-And finally for categorical variables the presence of labels themselves.
+### Categories: strings
 
-This is the presence of strings when we actually need numbers to fit machine than mothers use since
-
-they could learn is something that we need to address in a step that is called categorical variable
+And finally for categorical variables, the presence of labels themselves, this is the presence of strings when we actually need numbers to fit machine than model used in scikit-lern,  is something that we need to address in a step that is called categorical variable
 
 encoding
 
@@ -152,6 +150,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkzNDI4NDgsMTkxOTMyMDE0MCwtMT
-MxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbNjMyMDc0MDM3LDE5MTkzMjAxNDAsLTEzMT
+QyOTc4MzBdfQ==
 -->
