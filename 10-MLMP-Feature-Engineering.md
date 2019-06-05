@@ -105,19 +105,9 @@ And there are other algorithms that are sensitive to outliers as well. Think for
 
 And finally the magnitude of the features affects as well model performance. Think for example in a length variable. If the variable is in meters and we change it, we transform it into kilometers, the coefficient that multiplies that variable will also change if what we are building is a linear model. 
 
-From a different perspective. If you're trying to predict house price and we have one variable that is the area intense of square kilometres and a different variable is the number of rooms that varies from one to 10, in a linear model the variable that takes the larger values will have a predominant role over the house price.
+From a different perspective. If you're trying to predict house price and we have one variable that is the area intense of square kilometres and a different variable is the number of rooms that varies from one to 10, in a linear model the variable that takes the larger values will have a predominant role over the house price. So in this case, the area variable will be more important to determine the price of the house. However we know that the number of rooms also plays a role.
 
-So in this case the area variable will be more important to determine the price of the house.
-
-However we know that the number of rooms also plays a role.
-
-So what can we do to make that variable count as well.
-
-In fact most of the algorithms are sensitive to scale.
-
-If you look at this light I have listed those algorithms that for one reason or another are sensitive
-
-to the magnitude of the variable.
+So what can we do to make that variable count as well? In fact most of the algorithms are sensitive to scale. If you look at this slide, I have listed those algorithms that for one reason or another are sensitive to the magnitude of the variable.
 
 So linear mothers who've seen y but also support vector machines and neural networks are supposed to
 
@@ -133,6 +123,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM5NDY3MzksMTkxOTMyMDE0MCwtMT
-MxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTIyNTIwMzgzLDE5MTkzMjAxNDAsLTEzMT
+QyOTc4MzBdfQ==
 -->
