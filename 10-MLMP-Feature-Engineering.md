@@ -19,9 +19,11 @@ One of the problems is missing data. This is the absence of values for certain o
 
 ### Labels: Strings in categorical variables
 
-A second aspect that we need to tackle is the presence of labels in categorical variables. This is the values of the variables are strings rather than numbers, and we can't use them as such in machine learning models certainly not in python using so I could learn
+A second aspect that we need to tackle is the presence of labels in categorical variables. This is the values of the variables are strings rather than numbers, and we can't use them as such in machine learning models, certainly not in python using sci-kit learn.
 
-a third consideration to keep in mind is the distribution of the variables fundamental variables and
+### Distribution: Normal vs skewed
+
+A third consideration to keep in mind is the distribution of the variables fundamental variables and
 
 specifically whether they follow a gosh distribution or if they are rather skewed for some algorithms.
 
@@ -177,5 +179,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwOTMwNjM0LC0xMzE0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbLTEwMTAyOTAwMzAsLTEzMTQyOTc4MzBdfQ
+==
 -->
