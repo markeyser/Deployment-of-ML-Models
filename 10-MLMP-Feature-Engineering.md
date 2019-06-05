@@ -81,15 +81,9 @@ Other models like support vector machines and neural networks do not make any va
 
 ## Outliers
 
-We also mentioned outliers was our outliers but if you remember outliers are values that are extremely
+We also mentioned outliers, what was our outliers? but if you remember, outliers are values that are extremely low or extremely high compared to the remaining values for that variable. Outliers may affect certain machine learning models.
 
-low or extremely high compared to the remaining values for that variable outliers may affect certain
-
-machine learning mothers.
-
-You're probably familiar with how an outlier may affect a linear regression.
-
-Look for example at this illustration.
+You're probably familiar with how an outlier may affect a linear regression. Look for example at this illustration. 
 
 Here you see clearly how the presence of the outlier deviates the straight line from what otherwise
 
@@ -147,6 +141,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTA5NTAzMiwxOTE5MzIwMTQwLC0xMz
-E0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbLTE2MDIyMjY3NDksMTkxOTMyMDE0MCwtMT
+MxNDI5NzgzMF19
 -->
