@@ -109,20 +109,14 @@ From a different perspective. If you're trying to predict house price and we hav
 
 So what can we do to make that variable count as well? In fact most of the algorithms are sensitive to scale. If you look at this slide, I have listed those algorithms that for one reason or another are sensitive to the magnitude of the variable.
 
-So linear mothers who've seen y but also support vector machines and neural networks are supposed to
+So linear models who've seen why, but also support vector machines and neural networks, are supposed to converge faster and find the optimal hyper plane faster when using features with a similar scale. And of course all the distance based algorithms are also sensitive to the scale of the features - from KNN to PCA.
 
-converge faster and find the optimal hyper plane faster when using features with a similar scale.
-
-And of course all the distance based algorithms are also sensitive to the scale of the features.
-
-So I hope I gave you a flavor about why we need to engineer the variables that we're going to use in
-
-our machine learning models and because this is important to build good algorithms.
+So I hope I gave you a flavor about why we need to engineer the variables that we're going to use in our machine learning models and because this is important to build good algorithms.
 
 We need to make sure that this step takes part of our deployed machine learning pipeline so that closes
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTIwMzgzLDE5MTkzMjAxNDAsLTEzMT
-QyOTc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTg3OTMxODcwOSwxOTE5MzIwMTQwLC0xMz
+E0Mjk3ODMwXX0=
 -->
