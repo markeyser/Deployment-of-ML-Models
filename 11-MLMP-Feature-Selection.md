@@ -28,9 +28,10 @@ Why is feature selection so important? For multiple reasons really.
 
 - Second, shorter training times. It takes less time to train, but more importantly, less time to score if the mother uses fewer features.
 
-- Third we may achieve enhanced generalization by reducing over feeding if we use less features.
+- Third, we may achieved enhanced generalization by reducing overfitting if we use less features.
 
-Fourth and particularly important for this course is that models that are built on smaller datasets
+
+ and particularly important for this course is that models that are built on smaller datasets
 
 utilizing fewer features are easier to implement.
 
@@ -224,5 +225,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0OTcxNjY3LC03NjY3Mzc5NjZdfQ==
+eyJoaXN0b3J5IjpbNTE2OTA0NTg2LC03NjY3Mzc5NjZdfQ==
 -->
