@@ -75,17 +75,9 @@ And finally for categorical variables, the presence of labels themselves, this i
 - Other models: no assumption
 	- Better spread of values may benefit performance 
 
-speaking of numerical variables instead what we normally consider when building machine and mothers
+Speaking of numerical variables instead, what we normally consider when building machine and models is the distribution of the variables. What do I mean by this? linear models assume that the variables follow a Gaussian distribution. So if the variables in our data sets are not Gaussian, we may choose to apply some transformations.
 
-is the distribution of the vibes.
-
-What do I mean by this linear motors assume that the variables follow a Gaussian distribution.
-
-So if the variables in our data sets are not Gaussian we may choose to apply some transformations.
-
-Other mothers like support vector machines and neural networks do not make any variable assumptions.
-
-However a better spread of the values over a larger range tends to improve the predictive performance
+Other models like support vector machines and neural networks do not make any variable assumptions. However, a better spread of the values over a larger range tends to improve the predictive performance
 
 of these algorithms.
 
@@ -155,6 +147,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkzNjQ4ODIsMTkxOTMyMDE0MCwtMT
-MxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTkxMzY0NjY5LDE5MTkzMjAxNDAsLTEzMT
+QyOTc4MzBdfQ==
 -->
