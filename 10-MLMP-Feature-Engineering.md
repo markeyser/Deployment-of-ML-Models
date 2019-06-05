@@ -68,7 +68,12 @@ So this step is extremely important at the time of modern deployment because it 
 
 And finally for categorical variables, the presence of labels themselves, this is, the presence of strings when we actually need numbers to fit machine than model used in scikit-learn,  it is something that we need to address in a step that is called **categorical variable encoding**. 
 
-### Distributjio
+## Distributions
+
+- Linear model assumptions:
+	- Variables follow a Gaussian distribution
+- Other models: no assumption
+	- Better spread of values may benefit performance 
 
 speaking of numerical variables instead what we normally consider when building machine and mothers
 
@@ -150,6 +155,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0OTYwODc4LDE5MTkzMjAxNDAsLTEzMT
-QyOTc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE2NTkzNjQ4ODIsMTkxOTMyMDE0MCwtMT
+MxNDI5NzgzMF19
 -->
