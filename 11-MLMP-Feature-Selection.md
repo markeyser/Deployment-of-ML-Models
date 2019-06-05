@@ -24,21 +24,11 @@ I couldn't possibly emphasize more the importance of selecting features when the
 
 Why is feature selection so important? For multiple reasons really.
 
-First simpler mothers are easier to interpret by the consumers of the bodies.
+- First simpler mothers are easier to interpret by the consumers of the models. So those people who act on the decisions that the mothers make will need to understand those decisions. In this sense mothers built using ten features are easier to understand than models built using hundreds of features.
 
-So those people who act on the decisions that the mothers make.
+- Second, shorter training times. It takes less time to train, but more importantly, less time to score if the mother uses fewer features.
 
-We need to understand those decisions.
-
-In this sense mothers built using term features are easier to understand than mothers built using hundreds
-
-of features.
-
-Second shorter training times it takes less time to train but more importantly less time to score.
-
-If the mother uses fewer features.
-
-Third we may achieve enhanced generalization by reducing over feeding if we use less features.
+- Third we may achieve enhanced generalization by reducing over feeding if we use less features.
 
 Fourth and particularly important for this course is that models that are built on smaller datasets
 
@@ -234,5 +224,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUxMDIxNTksLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbNDY0OTcxNjY3LC03NjY3Mzc5NjZdfQ==
 -->
