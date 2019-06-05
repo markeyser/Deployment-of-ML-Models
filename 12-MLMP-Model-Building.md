@@ -19,19 +19,17 @@ And then when we pass the pre process data through our mothers we are able to ge
 		- How many times the model made a good assessment
 		- How many times the model made a wrong assessment.
 
-For example we can measure the ROC as you see which gives us an indication of how many times the more
+For example we can measure the ROC AUC you see which gives us an indication of how many times the more than makes a good assessment versus how many times the model makes the wrong assessment.
 
-than makes a good assessment versus how many times the model makes the wrong assessment.
+- Accuracy 
 
-We can also measure the accuracy.
+We can also measure the accuracy. Say for example the model gets it right 80 percent of the times.
 
-Say for example the model gets it right 80 percent of the times and we can measure as well the mean
+- MSE, RMSE, etc
 
-square error or the route squared error for linear models.
+And we can measure as well the mean square error or the root squared error for linear models.
 
-In fact there are multiple metrics that we can use and that you probably know very well but they're
-
-not the scope of the course.
+In fact there are multiple metrics that we can use and that you probably know very well but they're not the scope of the course.
 
 So let's move on.
 
@@ -63,6 +61,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMwNDg1MSwyMDU1OTA5NDQ3LDE0OT
-MyNTk3MjldfQ==
+eyJoaXN0b3J5IjpbNTUxNDY1MjAyLDIwNTU5MDk0NDcsMTQ5Mz
+I1OTcyOV19
 -->
