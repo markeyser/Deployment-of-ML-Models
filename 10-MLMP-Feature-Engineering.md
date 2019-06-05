@@ -43,6 +43,16 @@ But he did it that was obtained from a survey let's say and the person refuses t
 
 So we need to be prepared to fill in those missing values with some sort of number to use in machine learning.
 
+## Labels in categorical variables
+
+- Cardinality: high number o labels
+- Rare Labels: infrequent categories
+- Categories: strings
+	- scikit-learn
+
+
+
+
 The second problem I mentioned is the presence of flavors or strings in categorical variables.
 
 These problems come in three flavors.
@@ -165,5 +175,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NTEwOTUxLC0xMzE0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbNDE2MzcyNjYxLC0xMzE0Mjk3ODMwXX0=
 -->
