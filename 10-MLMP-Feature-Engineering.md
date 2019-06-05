@@ -27,13 +27,7 @@ A third consideration to keep in mind is the distribution of the variables for n
 
 ### Outliers: Unusual or unexpected values
 
-For some algorithms, the presence of outliers is also the true mental outliers are unusual or unexpected by use within a
-
-variable.
-
-This is values that are extremely high or extremely low compared to the majority of all the other values
-
-for that same variable
+For some algorithms, the presence of outliers is also the decremental. Outliers are unusual or unexpected values within a variable. This is values that are extremely high or extremely low compared to the majority of all the other values for that same variable.
 
 so missing data as I said is the absence of values for certain observations within a variable and it
 
@@ -179,5 +173,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MTE2MjM5LC0xMzE0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbMTg2Nzg0ODA5MCwtMTMxNDI5NzgzMF19
 -->
