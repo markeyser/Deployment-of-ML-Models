@@ -27,7 +27,7 @@ A third consideration to keep in mind is the distribution of the variables for n
 
 ### Outliers: Unusual or unexpected values
 
-For some algorithms., the presence of outliers is also the true mental outliers are unusual or unexpected by use within a
+For some algorithms, the presence of outliers is also the true mental outliers are unusual or unexpected by use within a
 
 variable.
 
@@ -179,6 +179,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcwNjE5MDMsLTEzMTQyOTc4MzBdfQ
-==
+eyJoaXN0b3J5IjpbODQ0MTE2MjM5LC0xMzE0Mjk3ODMwXX0=
 -->
