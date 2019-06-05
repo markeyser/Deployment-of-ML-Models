@@ -41,20 +41,8 @@ In this course we will not introduce meta and assembling as part of the pipeline
 
 ## Model Deployment
 
-And now we are ready to begin the process of modern deployment
-
-so far we have copied the machine learning pipeline from a theoretical perspective in the next set of
-
-videos.
-
-I will walk you over the pipeline utilizing a cargo data set so we can see in action how we build a
-
-machine learning pipeline as data scientists and what steps we will need to deploy what code we will
-
-need to deploy.
-
-So say you in the next B2.
+And now we are ready to begin the process of modern deployment. So far we have covered the machine learning pipeline from a theoretical perspective, in the next set of videos, I will walk you over the pipeline utilizing a Kaggle data set so we can see in action how we build a machine learning pipeline as data scientists and what steps we will need to deploy. What code we will need to deploy? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY2Nzc1MDYsLTIwMzkwMDY3NTEsMT
-YwMzY0NDM3LDIwNTU5MDk0NDcsMTQ5MzI1OTcyOV19
+eyJoaXN0b3J5IjpbNjk5ODg2OTY3LC0yMDM5MDA2NzUxLDE2MD
+M2NDQzNywyMDU1OTA5NDQ3LDE0OTMyNTk3MjldfQ==
 -->
