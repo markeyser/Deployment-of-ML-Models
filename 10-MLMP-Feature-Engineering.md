@@ -111,12 +111,8 @@ So what can we do to make that variable count as well? In fact most of the algor
 
 So linear models who've seen why, but also support vector machines and neural networks, are supposed to converge faster and find the optimal hyper plane faster when using features with a similar scale. And of course all the distance based algorithms are also sensitive to the scale of the features - from KNN to PCA.
 
-So I hope I gave you a flavor about why we need to engineer the variables that we're going to use in our machine learning models and because this is important to build good algorithms.
-
-We need to make sure that this step takes part of our deployed machine learning pipeline so that closes
-
-the lecture and see you in the next one.
+So I hope I gave you a flavor about why we need to engineer the variables that we're going to use in our machine learning models and because this is important to build good algorithms. We need to make sure that this step takes part of our deployed machine learning pipeline. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTMxODcwOSwxOTE5MzIwMTQwLC0xMz
-E0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbLTE1MDY2NzYwNTYsMTkxOTMyMDE0MCwtMT
+MxNDI5NzgzMF19
 -->
