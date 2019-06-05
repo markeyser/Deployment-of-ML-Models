@@ -97,8 +97,11 @@ And there are other algorithms that are sensitive to outliers as well. Think for
 	- K-means clustering
 	- Linear Discriminant Analysis (LDA)
 	- Principal Component Analysis (PCA)
-- 
 
+- Tree based ML models insensitive to feature scale:
+	- Classification and Regression Trees
+	- Random Forests
+	- Gradient Boosted Trees
 
 And finally the magnitude of the features affect us.
 
@@ -142,6 +145,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTYyNjM1NywxOTE5MzIwMTQwLC0xMz
-E0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbLTExNzEzNzMyMzEsMTkxOTMyMDE0MCwtMT
+MxNDI5NzgzMF19
 -->
