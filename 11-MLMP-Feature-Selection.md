@@ -30,18 +30,9 @@ Why is feature selection so important? For multiple reasons really.
 
 - Third, we may achieved enhanced generalization by reducing overfitting if we use less features.
 
+- Fourth,  and particularly important for this course is that models that are built on smaller datasets utilizing fewer features are easier to implement, and by this I mean to fully integrate with the business systems by the software developers. Models built using fewer features are easier to put into production. Why is that?
 
- and particularly important for this course is that models that are built on smaller datasets
-
-utilizing fewer features are easier to implement.
-
-And by this I mean to fully integrate with the fierceness systems by the software developers models
-
-built using fewer features are easier to put into production.
-
-Why is that.
-
-First we need to shape smaller Jason messages between the business systems and the model.
+	First we need to shape smaller Jason messages between the business systems and the model.
 
 Second we need to write less code to process those features and we also need to write less code to handle
 
@@ -225,5 +216,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTA0NTg2LC03NjY3Mzc5NjZdfQ==
+eyJoaXN0b3J5IjpbNjYzMTEyNjY1LC03NjY3Mzc5NjZdfQ==
 -->
