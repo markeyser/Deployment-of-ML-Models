@@ -85,7 +85,9 @@ We also mentioned outliers, what was our outliers? but if you remember, outliers
 
 You're probably familiar with how an outlier may affect a linear regression. Look for example at this illustration.  Here you see clearly how the presence of the outlier deviates the straight line from what otherwise seems to be the relationship of the majority of the values with the target.
 
-And there are other algorithms that are sensitive to outliers as well. Think for example adaboost, it is sensitive to outliers because this algorithm puts tremendous weights to the outliers as the different trees are built to try and correct the prediction that the previous three made wrongly. And this tends to cost over fitting and above generalization.
+And there are other algorithms that are sensitive to outliers as well. Think for example adaboost, it is sensitive to outliers because this algorithm puts tremendous weights to the outliers as the different trees are built to try and correct the prediction that the previous three made wrongly. And this tends to cost overfitting and depart from  generalization.
+
+## Feature Magnitude - Scale
 
 And finally the magnitude of the features affect us.
 
@@ -129,6 +131,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDcxMjM4OCwxOTE5MzIwMTQwLC0xMz
-E0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbNzU4ODg2OTEwLDE5MTkzMjAxNDAsLTEzMT
+QyOTc4MzBdfQ==
 -->
