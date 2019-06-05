@@ -50,16 +50,11 @@ So we need to be prepared to fill in those missing values with some sort of numb
 - Categories: strings
 	- scikit-learn
 
+All above issues create overfitting in tree based algorithms.
 
+The second problem I mentioned is the presence of labels or strings in categorical variables. These problems come in three flavors.
 
-
-The second problem I mentioned is the presence of flavors or strings in categorical variables.
-
-These problems come in three flavors.
-
-The first is the cardinality of the variable.
-
-And by this by cardinality I mean the number of different flavors or categories that the variable can
+The first is the cardinality of the variable. And by this, by cardinality, I mean the number of different flavors or categories that the variable can
 
 take in fact variables with big number of categories tend to dominate over variables with smaller number
 
@@ -175,5 +170,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MzcyNjYxLC0xMzE0Mjk3ODMwXX0=
+eyJoaXN0b3J5IjpbLTEzMjgxMjU4MzIsLTEzMTQyOTc4MzBdfQ
+==
 -->
