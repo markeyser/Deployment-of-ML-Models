@@ -130,13 +130,7 @@ Let's move on to wrapper methods.
 
 ### Embedded methods
 
-So then we come to embedded methods and they tend to have the suite of both worlds. embedded methods
-
-referred to those features election procedures that could occur with actually training the machine learning
-
-algorithm the classical example of a Method Method is the loss of regression and also the feature importance
-
-that we derive from fitting tree based algorithms on the good side.
+So then we come to embedded methods and they tend to have the suite of both worlds. Embedded methods are referred to those features election procedures that could occur with actually training the machine learning algorithm. The classical example of an embedded method is the Lasso regression and also the feature importance that we derive from fitting tree- based algorithms on the good side.
 
 These methods do consider that feature interaction and tend to provide a very good model performance.
 
@@ -174,6 +168,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDcyNjk0OCwxMTA4NDYyOTA4LDE4Nz
-Q3MTA0MTEsLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbLTEyOTg5Nzc4NzYsMTEwODQ2MjkwOCwxOD
+c0NzEwNDExLC0yMTQxNjM5MTQxLC03NjY3Mzc5NjZdfQ==
 -->
