@@ -103,15 +103,7 @@ And there are other algorithms that are sensitive to outliers as well. Think for
 	- Random Forests
 	- Gradient Boosted Trees
 
-And finally the magnitude of the features affect us.
-
-Well model performance think for example in a length variable.
-
-If the variable is in meters and we change it we transform it into kilometers.
-
-The coefficient that multiplies that bearable will also change if what we are building is a linear in
-
-than from a different perspective.
+And finally the magnitude of the features affects as well model performance. Think for example in a length variable. If the variable is in meters and we change it, we transform it into kilometers, the coefficient that multiplies that variable will also change if what we are building is a linear in than from a different perspective.
 
 If you're trying to predict house price and we have one body able that is the area intense of square
 
@@ -145,6 +137,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEzNzMyMzEsMTkxOTMyMDE0MCwtMT
-MxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbMTI4ODI0NTUyOCwxOTE5MzIwMTQwLC0xMz
+E0Mjk3ODMwXX0=
 -->
