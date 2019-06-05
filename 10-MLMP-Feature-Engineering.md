@@ -29,6 +29,12 @@ A third consideration to keep in mind is the distribution of the variables for n
 
 For some algorithms, the presence of outliers is also the decremental. Outliers are unusual or unexpected values within a variable. This is values that are extremely high or extremely low compared to the majority of all the other values for that same variable.
 
+## Missing Data
+
+- Missing values for certain obervations
+- Affects all machine learning models
+	- scikit-learn
+
 so missing data as I said is the absence of values for certain observations within a variable and it
 
 affects of course all machine learning models in the sense that we can't really feed observations to
@@ -173,5 +179,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Nzg0ODA5MCwtMTMxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTE0NzA1MTY1NzAsLTEzMTQyOTc4MzBdfQ
+==
 -->
