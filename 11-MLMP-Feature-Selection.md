@@ -35,13 +35,16 @@ Why is feature selection so important? For multiple reasons really.
 	- First, we need to ship smaller Jason messages between the business systems and the model.
 	- Second, we need to write less code to process those features and we also need to write less code to handle potential errors.
 
-- But let's continue with the advantages of feature selection utilizing less number of features minimizes the risk that we may encounter due to data errors. And of course more often than not data is redundant which means that many features provide the same
+- But let's continue with the advantages of feature selection utilizing less number of features minimizes the risk that we may encounter due to data errors. 
 
-information.
+- And of course more often than not data is redundant which means that many features provide the same information. So why should we use them all when we're building our models.
 
-So why should we use them all when we're building our mothers.
+## Reducing features for model deployment
 
-Let's go back to why it is important to deploy mothers using the less amount of features possible as
+- Smaller json messages sent over to the model
+	- Json m
+
+Let's go back to why it is important to deploy models using the less amount of features possible. As
 
 I said we will need to build smaller Jason messages to be sent to and from the mother to our other business
 
@@ -209,5 +212,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNzAxMjczLC03NjY3Mzc5NjZdfQ==
+eyJoaXN0b3J5IjpbMTE3NDEyNTQzMywtNzY2NzM3OTY2XX0=
 -->
