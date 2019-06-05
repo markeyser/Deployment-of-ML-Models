@@ -95,17 +95,12 @@ All of these group of algorithms have advantages and disadvantages. Let's go ove
 
 ### Filter methods
 
-Let's for example think about filter methods. Among the filter methods we find for example simple statistical tests like ANOVA or keys squared. These methods are independent of the algorithms we intend to build at the end and they discriminate
+Let's for example think about filter methods. Among the filter methods we find for example simple statistical tests like ANOVA or keys squared. These methods are independent of the algorithms we intend to build at the end, and they discriminate features based only on the features characteristics.
 
-features based only on the features characteristics.
+Why are these methods good? 
 
-Why are these methods good.
-
-Well they often provide a quick first step to remove a big chunk of your features particularly if you're
-
-using big datasets with lots of variables these methods filter methods are more than like Gnostic.
-
-So the selective features should be suitable for any one algorithm you want to build and they are of
+- Well they often provide a quick first step to remove a big chunk of your features, particularly if you're using big datasets with lots of variables. 
+- These methods filter methods are model agnostic. So the selective features should be suitable for any one algorithm you want to build and they are of
 
 course fast for computation on the downside features and methods look at one feature at the time so
 
@@ -181,6 +176,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg2MTg5NTUsMTg3NDcxMDQxMSwtMj
-E0MTYzOTE0MSwtNzY2NzM3OTY2XX0=
+eyJoaXN0b3J5IjpbODgwODIzMDQ5LDE4NzQ3MTA0MTEsLTIxND
+E2MzkxNDEsLTc2NjczNzk2Nl19
 -->
