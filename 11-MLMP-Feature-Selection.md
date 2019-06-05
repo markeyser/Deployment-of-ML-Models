@@ -60,6 +60,11 @@ And of course the less variables we use the less code we need to write to engine
 
 As a data scientists, we need to keep this in mind so that we don't build models that will overwhelm our developers and also our business systems.
 
+## Variable Redundancy
+
+- Constant variables: only 1 value per value
+- Duplication: same variable multiple times in the dataset
+
 We often find that many of the body was present in our data sets are redundant.
 
 So why should we ship them all to our models in the cloud.
@@ -198,5 +203,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc5MzE5NywtNzY2NzM3OTY2XX0=
+eyJoaXN0b3J5IjpbLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
 -->
