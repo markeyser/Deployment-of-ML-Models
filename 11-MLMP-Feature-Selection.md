@@ -14,7 +14,9 @@ At the beginning of the feature selection process, we start with the entire data
 - Simple models are easier to interpret
 - Shorter training times
 - Enhanced generalization by reducing overfitting
-- Easier to implement by s developers -> Model production
+- Easier to implement by software developers -> Model production
+- Reduced risk of data errors during model use
+- Data redundancy
 
 But the way that we select features to begin with.
 
@@ -234,5 +236,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4MzgwMTIzXX0=
+eyJoaXN0b3J5IjpbLTc2NjczNzk2Nl19
 -->
