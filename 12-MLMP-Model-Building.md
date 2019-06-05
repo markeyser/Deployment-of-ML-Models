@@ -41,7 +41,6 @@ In this course we will not introduce meta and assembling as part of the pipeline
 
 ## Model Deployment
 
-
 And now we are ready to begin the process of modern deployment
 
 so far we have copied the machine learning pipeline from a theoretical perspective in the next set of
@@ -56,6 +55,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MDE4MzQ4LC0yMDM5MDA2NzUxLDE2MD
-M2NDQzNywyMDU1OTA5NDQ3LDE0OTMyNTk3MjldfQ==
+eyJoaXN0b3J5IjpbLTE0OTY2Nzc1MDYsLTIwMzkwMDY3NTEsMT
+YwMzY0NDM3LDIwNTU5MDk0NDcsMTQ5MzI1OTcyOV19
 -->
