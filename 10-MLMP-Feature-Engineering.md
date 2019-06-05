@@ -77,9 +77,9 @@ And finally for categorical variables, the presence of labels themselves, this i
 
 Speaking of numerical variables instead, what we normally consider when building machine and models is the distribution of the variables. What do I mean by this? linear models assume that the variables follow a Gaussian distribution. So if the variables in our data sets are not Gaussian, we may choose to apply some transformations.
 
-Other models like support vector machines and neural networks do not make any variable assumptions. However, a better spread of the values over a larger range tends to improve the predictive performance
+Other models like support vector machines and neural networks do not make any variable assumptions. However, a better spread of the values over a larger range tends to improve the predictive performance of these algorithms.
 
-of these algorithms.
+## Outliers
 
 We also mentioned outliers was our outliers but if you remember outliers are values that are extremely
 
@@ -147,6 +147,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzY0NjY5LDE5MTkzMjAxNDAsLTEzMT
-QyOTc4MzBdfQ==
+eyJoaXN0b3J5IjpbMTcyMTA5NTAzMiwxOTE5MzIwMTQwLC0xMz
+E0Mjk3ODMwXX0=
 -->
