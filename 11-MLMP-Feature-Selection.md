@@ -139,9 +139,8 @@ So then we come to embedded methods and they tend to have the suite of both worl
 - Better than filter
 - Faster than wrapper
  
- On the good side, these methods do consider feature interaction and tend to provide a very good model performance. They are faster than wapped methods and tend to produce models that are more predictive than those based
-
-on features selected by filter methods.
+ On the good side, these methods do consider feature interaction and tend to provide a very good model performance. They are faster than wrapped methods and tend to produce models that are more predictive than those based on features selected by filter methods.
+#### Cons
 
 On the downside they are not model agnostic so features selected by random forest for example may not
 
@@ -173,6 +172,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzgyNDE2OCwxMTA4NDYyOTA4LDE4Nz
-Q3MTA0MTEsLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbNDc3NTIzNjEzLDExMDg0NjI5MDgsMTg3ND
+cxMDQxMSwtMjE0MTYzOTE0MSwtNzY2NzM3OTY2XX0=
 -->
