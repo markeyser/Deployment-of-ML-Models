@@ -8,11 +8,12 @@ If you've seen the first video, you're not familiar with the entire machine lear
 got a flavor of what it is and that we need to deploy an entire pipeline and not just the machine learning
 algorithms.
 
- In the previous section, we discussed that the first step of the pipeline that we need to consider is feature engineering. So what is feature engineering? In this video we're going to revisit many of the feature engineering steps that you can undertake depending on the machine learning model you're building to preprocess your data and leave it suitable to use to train machine learning mothers and make predictions.
+ In the previous section, we discussed that the first step of the pipeline that we need to consider is feature engineering. So what is feature engineering? In this video we're going to revisit many of the feature engineering steps that you can undertake, depending on the machine learning model you're building, to preprocess your data and leave it suitable to use to train machine learning mothers and make predictions.
 
-So by the we need to engineer features that are a variety of problems that we can find in the variables
+So why do we need to engineer features? There are a variety of problems that we can find in the variables
+in our datasets. 
 
-in our datasets.
+### Missing Data: Missing values within a variable
 
 One of the problems is missing data.
 
@@ -180,5 +181,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTY4MjcwOCwtMTMxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTIxMzM0MjI2MjYsLTEzMTQyOTc4MzBdfQ
+==
 -->
