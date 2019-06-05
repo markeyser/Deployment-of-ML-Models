@@ -79,7 +79,9 @@ And finally we also find correlation and correlated parables tend to provide the
 
 ## Feature Selection Methdos
 
-- Embeded 
+- Embedded methods
+- Wrapper methods
+- Filter methods
 
 There are several ways in which we can select features.
 
@@ -189,6 +191,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIxMDI5MjAsLTIxNDE2MzkxNDEsLT
-c2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbMTg3NDcxMDQxMSwtMjE0MTYzOTE0MSwtNz
+Y2NzM3OTY2XX0=
 -->
