@@ -83,21 +83,9 @@ Other models like support vector machines and neural networks do not make any va
 
 We also mentioned outliers, what was our outliers? but if you remember, outliers are values that are extremely low or extremely high compared to the remaining values for that variable. Outliers may affect certain machine learning models.
 
-You're probably familiar with how an outlier may affect a linear regression. Look for example at this illustration. 
+You're probably familiar with how an outlier may affect a linear regression. Look for example at this illustration.  Here you see clearly how the presence of the outlier deviates the straight line from what otherwise seems to be the relationship of the majority of the values with the target.
 
-Here you see clearly how the presence of the outlier deviates the straight line from what otherwise
-
-seems to be the relationship of the majority of the values with the target.
-
-And there are other algorithms that are sensitive to outliers as well.
-
-Think for example are the boost at the most is sensitive to outliers because this algorithm puts tremendous
-
-weights to the outliers as the different threes are built to try and correct the prediction that the
-
-previous three made wrongly.
-
-And this tends to cost over fitting and above generalization.
+And there are other algorithms that are sensitive to outliers as well. Think for example adaboost, it is sensitive to outliers because this algorithm puts tremendous weights to the outliers as the different trees are built to try and correct the prediction that the previous three made wrongly. And this tends to cost over fitting and above generalization.
 
 And finally the magnitude of the features affect us.
 
@@ -141,6 +129,6 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIyMjY3NDksMTkxOTMyMDE0MCwtMT
-MxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbLTcxMDcxMjM4OCwxOTE5MzIwMTQwLC0xMz
+E0Mjk3ODMwXX0=
 -->
