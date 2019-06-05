@@ -97,14 +97,19 @@ All of these group of algorithms have advantages and disadvantages. Let's go ove
 
 Let's for example think about filter methods. Among the filter methods we find for example simple statistical tests like ANOVA or keys squared. These methods are independent of the algorithms we intend to build at the end, and they discriminate features based only on the features characteristics.
 
+#### Pros
+
 Why are these methods good? 
 
 - Well they often provide a quick first step to remove a big chunk of your features, particularly if you're using big datasets with lots of variables. 
-- These methods filter methods are model agnostic. So the selective features should be suitable for any one algorithm you want to build and they are of
+- These methods filter methods are model agnostic. So the selective features should be suitable for any one algorithm you want to build 
+- and they are, of course, fast for computation 
 
-course fast for computation on the downside features and methods look at one feature at the time so
+#### Cons
 
-they do not capture feature redundancy or feature interaction.
+On the downside, 
+
+- filter methods look at one feature at the time so they do not capture feature redundancy or feature interaction.
 
 And at the end of the day they tend to provide the lowest model performance.
 
@@ -176,6 +181,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwODIzMDQ5LDE4NzQ3MTA0MTEsLTIxND
+eyJoaXN0b3J5IjpbLTMxNTA5MzQ0LDE4NzQ3MTA0MTEsLTIxND
 E2MzkxNDEsLTc2NjczNzk2Nl19
 -->
