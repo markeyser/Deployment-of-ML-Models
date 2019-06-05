@@ -83,11 +83,7 @@ And finally we also find correlation and correlated parables tend to provide the
 - Wrapper methods
 - Filter methods
 
-There are several ways in which we can select features.
-
-I am not going to go into much detail because this is not the scope of this course but just to give
-
-you a flavor.
+There are several ways in which we can select features. I am not going to go into much detail because this is not the scope of this course but just to give you a flavor.
 
 There are three umbrella terms under which we group the different feature selection algorithms.
 
@@ -191,6 +187,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDcxMDQxMSwtMjE0MTYzOTE0MSwtNz
-Y2NzM3OTY2XX0=
+eyJoaXN0b3J5IjpbOTgyMzE3MzgzLDE4NzQ3MTA0MTEsLTIxND
+E2MzkxNDEsLTc2NjczNzk2Nl19
 -->
