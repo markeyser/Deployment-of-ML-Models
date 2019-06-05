@@ -35,15 +35,7 @@ So let's move on.
 
 ## Model Stacking - Meta Ensembling
 
-Some of us may even go ahead and build the multiple machine learning algorithms and then build the mental
-
-model that takes in the predictions of all the initial models and combines them to make a better assessment
-
-of the target.
-
-This is called metal and assembly and we call if we wanted make this aspect part of the machine learning
-
-pipeline as well in this course we will not introduce meta and assemble in as part of the pipeline that
+Some of us may even go ahead and build the multiple machine learning algorithms and then build the meta model that takes in the predictions of all the initial models and combines them to make a better assessment of the target. This is called metal and assembly and we call if we wanted make this aspect part of the machine learning pipeline as well in this course we will not introduce meta and assemble in as part of the pipeline that
 
 we want to deploy because we want to keep it simple but we will teach you enough to make you feel comfortable
 
@@ -63,6 +55,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzY0NDM3LDIwNTU5MDk0NDcsMTQ5Mz
-I1OTcyOV19
+eyJoaXN0b3J5IjpbLTE3NTQ5NDc5MTksMTYwMzY0NDM3LDIwNT
+U5MDk0NDcsMTQ5MzI1OTcyOV19
 -->
