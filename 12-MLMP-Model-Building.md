@@ -14,6 +14,11 @@ There are several models that we can build. We can build for example linear mode
 
 And then when we pass the pre process data through our mothers we are able to get the predictions that they make.  Within need to evaluate the predictions that these models make to make sure that the models bring good business value. We evaluate the performance using different metrics depending on the project for classification.
 
+- ROC-AUC
+	- For each probability value:
+		- How many times the model made a good assessment
+		- How many times the model made a wrong assessment.
+
 For example we can measure the ROC as you see which gives us an indication of how many times the more
 
 than makes a good assessment versus how many times the model makes the wrong assessment.
@@ -58,6 +63,6 @@ need to deploy.
 
 So say you in the next B2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM3NTM4MTMsMjA1NTkwOTQ0NywxND
-kzMjU5NzI5XX0=
+eyJoaXN0b3J5IjpbLTEwOTMwNDg1MSwyMDU1OTA5NDQ3LDE0OT
+MyNTk3MjldfQ==
 -->
