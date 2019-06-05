@@ -45,7 +45,7 @@ So we need to be prepared to fill in those missing values with some sort of numb
 
 ## Labels in categorical variables
 
-- Cardinality: high number o labels
+- Cardinality: high number of labels
 - Rare Labels: infrequent categories
 - Categories: strings
 	- scikit-learn
@@ -54,7 +54,7 @@ All above issues create overfitting in tree based algorithms.
 
 The second problem I mentioned is the presence of labels or strings in categorical variables. These problems come in three flavors.
 
-### 
+### Cardinality: high number of labels
 
 The first is the cardinality of the variable. And by this, by cardinality, I mean the number of different labels or categories that the variable can take. In fact variables with big number of categories tend to dominate over variables with smaller number of categories at the time of with the machine learning models. And this is particularly true for three based algorithms. Three base methods tend to overfit to variables with high cardinality 
 
@@ -168,5 +168,5 @@ We need to make sure that this step takes part of our deployed machine learning 
 
 the lecture and see you in the next one.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjU3MjIxOCwtMTMxNDI5NzgzMF19
+eyJoaXN0b3J5IjpbMTAzNjM4MTg3MSwtMTMxNDI5NzgzMF19
 -->
