@@ -126,13 +126,11 @@ Let's move on to wrapper methods.
 #### Cons
 
 - On the downside they are not model agnostic which means that the combination of features they found for a certain algorithm may not be the best for a different algorithm 
-- and wrapper methods in both building
+- and wrapper methods involve building a different machine learning model for each feature combination. So they are computationally very expensive to the point that they are often impracticable. 
 
-a different machine learning model for each feature combination.
+### Embedded methods
 
-So they are computationally very expensive to the point that they are often impracticable.
-
-So then we come to embedded methods and they tend to have the suite of both worlds embedded methods
+So then we come to embedded methods and they tend to have the suite of both worlds. embedded methods
 
 referred to those features election procedures that could occur with actually training the machine learning
 
@@ -176,6 +174,6 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA1MTYyOTYsMTEwODQ2MjkwOCwxOD
-c0NzEwNDExLC0yMTQxNjM5MTQxLC03NjY3Mzc5NjZdfQ==
+eyJoaXN0b3J5IjpbMjA0MDcyNjk0OCwxMTA4NDYyOTA4LDE4Nz
+Q3MTA0MTEsLTIxNDE2MzkxNDEsLTc2NjczNzk2Nl19
 -->
