@@ -52,23 +52,13 @@ Let's go back to why it is important to deploy models using the less amount of f
 
 I said we will need to build smaller Jason messages to be sent to and from the model to our other business systems. This Jason messages contains the variables that we need to input into our model and then they will take the predictions out onto our systems.
 
-We also need to write less lines of code for error handling. For example lines to handle the previously unseen values, as we were discussing in the previous lecture, typically we write error handlers for each
+We also need to write less lines of code for error handling. For example lines to handle the previously unseen values, as we were discussing in the previous lecture, typically we write error handlers for each and every variable we send into our model.
 
-and every variable we send into our model.
+If we use less features also then we need to log less information toward databases. Typically when we put our mothers in production and we write production code, we log all the intermediate steps to have some sense of how the process is working. 
 
-If we use less features also then we need to log less information toward databases typically when we
+And of course the less variables we use the less code we need to write to engineer those variables. Remember that we need to include this step as part of the pipeline.
 
-put our mothers in production and we write production code.
-
-We log all the intermediate steps to have some sense of how the process is working.
-
-And of course the less variables we use the less code we need to write to engineer those variables.
-
-Remember that we need to include this step as part of the pipeline.
-
-As a data scientist we need to keep this in mind so that we don't build models that will overwhelm our
-
-developers and also our business systems.
+As a data scientists, we need to keep this in mind so that we don't build models that will overwhelm our developers and also our business systems.
 
 We often find that many of the body was present in our data sets are redundant.
 
@@ -208,5 +198,5 @@ of the pipeline for now.
 
 See you in the next video where I will go over building the machine learning models.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI3MjM1NzIsLTc2NjczNzk2Nl19
+eyJoaXN0b3J5IjpbLTEzMDc5MzE5NywtNzY2NzM3OTY2XX0=
 -->
