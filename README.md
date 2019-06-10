@@ -3,6 +3,7 @@ Notes about the Udemy training course "Deployment of Machine Learning Models"
 
 ## Directory Structure
 
+```
 ├── LICENSE
 ├── Notes
 │   ├── 01-Introduction-to-the-course.md
