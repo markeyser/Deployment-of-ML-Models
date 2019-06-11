@@ -3,7 +3,7 @@ Notes about the Udemy training course "Deployment of Machine Learning Models"
 
 Marcos created all notes at the `Notes` directory. All notes are basically a transcription of the training videos.
 
-The `Code` directory contains a copy of all Jupyter notebooks already created by the authors of the course. The original Jupyter notebooks are located here `/Resources/section02`.
+The `Code` directory contains a copy of all Jupyter notebooks already created by the authors of the course. The original Jupyter notebooks are located here `/Resources/section02`. 
 
 ## Directory Structure
 
