@@ -3,17 +3,17 @@
 
 ### Machine Learning Pipeline: Production
 
-In this section we will introduce you to the different ways in which you can write code to deploy a machine learning pipeline. And then we will give you our preferred option unexplained you why we think this is the best solution for the majority of business cases. So let's go ahead and get started.
+In this section we will introduce you to the different ways in which you can write code to deploy a machine learning pipeline. And then we will give you our preferred option and explain to you why we think this is the best solution for the majority of business cases. So let's go ahead and get started.
 
-In Section 2, we cover the different steps of the machine learning pipeline. We went over them with slides and then we walk you through a practical example. And then, by the end of section 2, we produced a Jupiter notebook that contains the sequence of steps that we need to create our machine learning model.
+In Section 2, we covered the different steps of the machine learning pipeline. We went over them with slides and then we walk you through a practical example. And then, by the end of section 2, we produced a Jupiter notebook that contains the sequence of steps that we need to create our machine learning model.
 
-The notebook contains steps to engineer the variables, to use only the selected features,  and then to train the models and make predictions using these models. So, briefly, these three steps of the pipeline which are cycled in red are the ones that we need to right production code for.
+The notebook contains steps to engineer the variables, to use only the selected features,  and then to train the models and make predictions using these models. So, briefly, these three steps of the pipeline which are cycled in red are the ones that we need to write production code for.
 
 [image pipeline]
 
 ### Towards deployment code
 
-For most of you in the course, if you have never deployed a machine learning model, the most likely scenario is that you will have your models and the feature engineering steps in Jupiter notebooks. Just like the one we had at the end of section 2 of this course.
+For most of you in the course, if you have never deployed a machine learning model, the most likely scenario is that you will have your models and the feature engineering steps in Jupyter notebooks. Just like the one we had at the end of section 2 of this course.
 
 And from that starting point, so from your Jupiter notebook, you want to transition into production code for model deployment.
 
