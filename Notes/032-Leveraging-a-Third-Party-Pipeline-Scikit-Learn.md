@@ -46,7 +46,7 @@ In fact, scikit-learn it is so well established in the community, that new packa
     - Last step should be a predictor
 
 
-scikit-learn has three main type of objects. The **Transformers** the **predictors** and the **pipeline**.
+scikit-learn has three main type of objects. The **Transformers**, the **predictors** and the **pipeline**.
 
 Transformers are objects that aim to transform the data. They typically carry the `feet` and `transform` methods.
 
@@ -88,7 +88,7 @@ Now we need to fit the next transformer. In this case the `TfidfTransformer` so 
 
 And then we transform this data again and this transform data that now we call `tfidfX` is the one that we're going to use to fit the classifier `SGDClassifier(tfidfX)`, which is what we do in the next step.
 
-And by combining the feet with the predict we are able to obtain the predictions as well from the same training set `predicted`.
+And by combining the fit with the predict we are able to obtain the predictions as well from the same training set `predicted`.
 
 ```Python
 # Now evaluate all steps on test set
@@ -143,30 +143,12 @@ So the pipeline is a very elegant way to order, to determine the sequence in whi
     - Inherit class and adjust the fit and transform methods
 - Click here for and [example](https://github.com/solegalli/deploying-machine-learning-models/blob/master/packages/regression_model/regression_model/processing/preprocessors.py)
 
-Well first by using this I could learn pipeline.
+Well first by using using the scikit-earn pipeline, we do not need to write a custom pipeline because scikit-learn already took care of that part.
 
-We do not need to write a custom pipeline because I could learn already took care of that part.
+So instead, but we need to do is to write code for all of our feature engineering steps in a way that can be used within the scikit-lear pipeline.
 
-So instead but we need to do is to write code for all of our feature engineering steps in a way that
+So we need to build individual transformers that allow the fit transform scikit-learn functionality so this way we can integrate these transformer, this feature engine steps as part of scikit-learn pipeline ahead of calling the predictor.
 
-can be used.
-
-Within this I could learn pipeline.
-
-So we need to build individual transformers that allow the fit transform cycle land functionality so
-
-this way we can integrate these transformer.
-
-This feature engine steps as part of this I could learn pipeline ahead of calling the predictor.
-
-It sounds really more difficult than what it is.
-
-Why.
-
-Well because sacred land already has templates for these transformers so that the only thing that you
-
-need to do is to call this template inherit all its methods and only modify the fit and transform parts
-
-of it so that they do what your future engineers steps require them to do.
+It sounds really more difficult than what it is. Why? Well because scikit-learn already has templates for these transformers so that the only thing that you need to do is to call this template inherit all its methods and only modify the fit and transform parts of it so that they do what your future engineers steps require them to do.
 
 So let me show you how to do that for our house price data set project.
